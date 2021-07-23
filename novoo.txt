@@ -1,0 +1,3133 @@
+#EXTM3U
+#EXTINF:-1,VIP UK: BBC iPlayer Sport 5
+http://tunestream.me:8080/thomas/thomas/79153
+#EXTINF:-1,VIP UK: BBC iPlayer Sport 4
+http://tunestream.me:8080/thomas/thomas/79152
+#EXTINF:-1,VIP UK: BBC iPlayer Sport 3
+http://tunestream.me:8080/thomas/thomas/79151
+#EXTINF:-1,VIP UK: BBC iPlayer Sport 2
+http://tunestream.me:8080/thomas/thomas/79150
+#EXTINF:-1,VIP UK: BBC iPlayer Sport 1
+http://tunestream.me:8080/thomas/thomas/79149
+#EXTINF:-1,===== UK =====
+http://tunestream.me:8080/thomas/thomas/1203
+#EXTINF:-1,Events: Corona Virus - Covid 19
+http://tunestream.me:8080/thomas/thomas/38446
+#EXTINF:-1,VIP UK: BBC One FHD
+http://tunestream.me:8080/thomas/thomas/2240
+#EXTINF:-1,VIP UK: BBC Two FHD
+http://tunestream.me:8080/thomas/thomas/2238
+#EXTINF:-1,VIP UK: BBC Three FHD
+http://tunestream.me:8080/thomas/thomas/2239
+#EXTINF:-1,VIP UK: BBC Four FHD
+http://tunestream.me:8080/thomas/thomas/8169
+#EXTINF:-1,VIP UK: ITV FHD
+http://tunestream.me:8080/thomas/thomas/6886
+#EXTINF:-1,VIP UK: ITV 2 FHD
+http://tunestream.me:8080/thomas/thomas/7623
+#EXTINF:-1,VIP UK: ITV 3 FHD
+http://tunestream.me:8080/thomas/thomas/8182
+#EXTINF:-1,VIP UK: ITV 4 FHD
+http://tunestream.me:8080/thomas/thomas/7624
+#EXTINF:-1,VIP UK: Channel 4 FHD
+http://tunestream.me:8080/thomas/thomas/8170
+#EXTINF:-1,VIP UK: Channel 5 FHD
+http://tunestream.me:8080/thomas/thomas/8171
+#EXTINF:-1,VIP UK: Virgin Media One
+http://tunestream.me:8080/thomas/thomas/22622
+#EXTINF:-1,VIP UK: Virgin Media Two
+http://tunestream.me:8080/thomas/thomas/22623
+#EXTINF:-1,VIP UK: Virgin Media Three
+http://tunestream.me:8080/thomas/thomas/22624
+#EXTINF:-1,VIP UK: Sky Atlantic HD
+http://tunestream.me:8080/thomas/thomas/12581
+#EXTINF:-1,VIP UK: Sky Cinema Action HD
+http://tunestream.me:8080/thomas/thomas/12576
+#EXTINF:-1,VIP UK: Sky Cinema Animation HD
+http://tunestream.me:8080/thomas/thomas/12575
+#EXTINF:-1,VIP UK: Sky Cinema Comedy HD
+http://tunestream.me:8080/thomas/thomas/12577
+#EXTINF:-1,VIP UK: Sky Cinema Disney HD
+http://tunestream.me:8080/thomas/thomas/11773
+#EXTINF:-1,VIP UK: Sky Cinema Drama HD
+http://tunestream.me:8080/thomas/thomas/11772
+#EXTINF:-1,VIP UK: Sky Cinema Family HD
+http://tunestream.me:8080/thomas/thomas/29790
+#EXTINF:-1,VIP UK: Sky Cinema Greats HD
+http://tunestream.me:8080/thomas/thomas/11771
+#EXTINF:-1,VIP UK: Sky Cinema Hits HD
+http://tunestream.me:8080/thomas/thomas/60881
+#EXTINF:-1,VIP UK: Sky Cinema Premiere HD
+http://tunestream.me:8080/thomas/thomas/11769
+#EXTINF:-1,VIP UK: Sky Cinema SC-FI & Horror HD
+http://tunestream.me:8080/thomas/thomas/11768
+#EXTINF:-1,VIP UK: Sky Cinema Select HD
+http://tunestream.me:8080/thomas/thomas/12579
+#EXTINF:-1,VIP UK: Sky Cinema Thriller HD
+http://tunestream.me:8080/thomas/thomas/12578
+#EXTINF:-1,VIP UK: Sky Documentary FHD
+http://tunestream.me:8080/thomas/thomas/30634
+#EXTINF:-1,VIP UK: Sky History FHD
+http://tunestream.me:8080/thomas/thomas/12475
+#EXTINF:-1,VIP UK: Sky Nature FHD
+http://tunestream.me:8080/thomas/thomas/20585
+#EXTINF:-1,VIP UK: Sky Witness HD
+http://tunestream.me:8080/thomas/thomas/20567
+#EXTINF:-1,VIP UK: Great! Movies Action
+http://tunestream.me:8080/thomas/thomas/74230
+#EXTINF:-1,VIP UK: Great! Movies Classic
+http://tunestream.me:8080/thomas/thomas/74231
+#EXTINF:-1,VIP UK: SKY Store PreOrder 1
+http://tunestream.me:8080/thomas/thomas/74228
+#EXTINF:-1,VIP UK: SKY Store PreOrder Kids
+http://tunestream.me:8080/thomas/thomas/74229
+#EXTINF:-1,VIP UK: Sky Store 1 FHD
+http://tunestream.me:8080/thomas/thomas/44266
+#EXTINF:-1,VIP UK: Sky Store 2 FHD
+http://tunestream.me:8080/thomas/thomas/44267
+#EXTINF:-1,VIP UK: Sky Store 3 FHD
+http://tunestream.me:8080/thomas/thomas/44268
+#EXTINF:-1,VIP UK: Sky Store 4 FHD
+http://tunestream.me:8080/thomas/thomas/44269
+#EXTINF:-1,VIP UK: Sky Store 5 FHD
+http://tunestream.me:8080/thomas/thomas/44270
+#EXTINF:-1,VIP UK: BT Sports 1 FHD
+http://tunestream.me:8080/thomas/thomas/60877
+#EXTINF:-1,VIP UK: BT Sports 1 HD 1080P
+http://tunestream.me:8080/thomas/thomas/8178
+#EXTINF:-1,VIP UK: BT Sports 2 FHD
+http://tunestream.me:8080/thomas/thomas/60878
+#EXTINF:-1,VIP UK: BT Sports 2 HD 1080P
+http://tunestream.me:8080/thomas/thomas/8179
+#EXTINF:-1,VIP UK: BT Sports 3 FHD
+http://tunestream.me:8080/thomas/thomas/60879
+#EXTINF:-1,VIP UK: BT Sports 3 HD 1080P
+http://tunestream.me:8080/thomas/thomas/8180
+#EXTINF:-1,VIP UK: BT Sports Box Office HD
+http://tunestream.me:8080/thomas/thomas/20823
+#EXTINF:-1,VIP UK: BT Sports ESPN FHD
+http://tunestream.me:8080/thomas/thomas/60880
+#EXTINF:-1,VIP UK: BT Sports ESPN HD 1080P
+http://tunestream.me:8080/thomas/thomas/20199
+#EXTINF:-1,VIP UK: EIR SPORTS 1 FHD
+http://tunestream.me:8080/thomas/thomas/30526
+#EXTINF:-1,VIP UK: EIR SPORTS 2 FHD
+http://tunestream.me:8080/thomas/thomas/30527
+#EXTINF:-1,VIP UK: ELEVEN SPORT 1 1080P
+http://tunestream.me:8080/thomas/thomas/18770
+#EXTINF:-1,VIP UK: Eurosport 1 FHD
+http://tunestream.me:8080/thomas/thomas/66148
+#EXTINF:-1,VIP UK: Eurosport 2 FHD
+http://tunestream.me:8080/thomas/thomas/66149
+#EXTINF:-1,VIP UK: Free Sport HD
+http://tunestream.me:8080/thomas/thomas/16288
+#EXTINF:-1,VIP UK: LA LIGA HD
+http://tunestream.me:8080/thomas/thomas/18771
+#EXTINF:-1,VIP UK: Premier Sports 1 FHD
+http://tunestream.me:8080/thomas/thomas/22620
+#EXTINF:-1,VIP UK: Premier Sports 2 FHD
+http://tunestream.me:8080/thomas/thomas/30440
+#EXTINF:-1,VIP UK: Sky Box Office PPV HD
+http://tunestream.me:8080/thomas/thomas/13672
+#EXTINF:-1,VIP UK: Sky Sport Arena FHD
+http://tunestream.me:8080/thomas/thomas/30347
+#EXTINF:-1,VIP UK: Sky Sport Arena HD 1080P
+http://tunestream.me:8080/thomas/thomas/12662
+#EXTINF:-1,VIP UK: Sky Sport Cricket FHD
+http://tunestream.me:8080/thomas/thomas/30346
+#EXTINF:-1,VIP UK: Sky Sport Cricket HD 1080P
+http://tunestream.me:8080/thomas/thomas/8173
+#EXTINF:-1,VIP UK: Sky Sport F1 FHD
+http://tunestream.me:8080/thomas/thomas/30345
+#EXTINF:-1,VIP UK: Sky Sport F1 HD 1080P
+http://tunestream.me:8080/thomas/thomas/8177
+#EXTINF:-1,VIP UK: Sky Sport Football FHD
+http://tunestream.me:8080/thomas/thomas/30344
+#EXTINF:-1,VIP UK: Sky Sport Football HD 1080P
+http://tunestream.me:8080/thomas/thomas/12663
+#EXTINF:-1,VIP UK: Sky Sport Golf FHD
+http://tunestream.me:8080/thomas/thomas/30343
+#EXTINF:-1,VIP UK: Sky Sport Golf HD 1080P
+http://tunestream.me:8080/thomas/thomas/8175
+#EXTINF:-1,VIP UK: Sky Sport Main Event FHD
+http://tunestream.me:8080/thomas/thomas/30342
+#EXTINF:-1,VIP UK: Sky Sport Main Events HD 1080P
+http://tunestream.me:8080/thomas/thomas/8172
+#EXTINF:-1,VIP UK: Sky Sport Mix FHD
+http://tunestream.me:8080/thomas/thomas/30339
+#EXTINF:-1,VIP UK: Sky Sport Mix HD 1080P
+http://tunestream.me:8080/thomas/thomas/28990
+#EXTINF:-1,VIP UK: Sky Sport News FHD
+http://tunestream.me:8080/thomas/thomas/30338
+#EXTINF:-1,VIP UK: Sky Sport News HD 1080P
+http://tunestream.me:8080/thomas/thomas/28991
+#EXTINF:-1,VIP UK: Sky Sport NHL FHD
+http://tunestream.me:8080/thomas/thomas/30348
+#EXTINF:-1,VIP UK: Sky Sport NHL HD 1080P
+http://tunestream.me:8080/thomas/thomas/8174
+#EXTINF:-1,VIP UK: Sky Sport Premier League FHD
+http://tunestream.me:8080/thomas/thomas/30341
+#EXTINF:-1,VIP UK: Sky Sport PL HD 1080P
+http://tunestream.me:8080/thomas/thomas/8176
+#EXTINF:-1,VIP UK: Sky Sport Racing
+http://tunestream.me:8080/thomas/thomas/26015
+#EXTINF:-1,VIP UK: Sky Sport Racing FHD
+http://tunestream.me:8080/thomas/thomas/30340
+#EXTINF:-1,VIP UK: Virgin Media Sport HD
+http://tunestream.me:8080/thomas/thomas/26923
+#EXTINF:-1,VIP UK: Betfred TV
+http://tunestream.me:8080/thomas/thomas/20592
+#EXTINF:-1,VIP UK: Coral TV 1
+http://tunestream.me:8080/thomas/thomas/20590
+#EXTINF:-1,VIP UK: Coral TV 2
+http://tunestream.me:8080/thomas/thomas/74233
+#EXTINF:-1,VIP UK: Ladbrokes TV
+http://tunestream.me:8080/thomas/thomas/20588
+#EXTINF:-1,VIP UK: Ladbrokes TV 2
+http://tunestream.me:8080/thomas/thomas/20589
+#EXTINF:-1,VIP UK: Ladbrokes TV 3
+http://tunestream.me:8080/thomas/thomas/74232
+#EXTINF:-1,VIP UK: Paddy Power TV 1
+http://tunestream.me:8080/thomas/thomas/20587
+#EXTINF:-1,VIP UK: Paddy Power TV 3
+http://tunestream.me:8080/thomas/thomas/20586
+#EXTINF:-1,VIP UK: SIS One
+http://tunestream.me:8080/thomas/thomas/20583
+#EXTINF:-1,VIP UK: SIS Racing
+http://tunestream.me:8080/thomas/thomas/20584
+#EXTINF:-1,VIP UK: SIS Two
+http://tunestream.me:8080/thomas/thomas/20582
+#EXTINF:-1,VIP UK: William Hill BTV
+http://tunestream.me:8080/thomas/thomas/74098
+#EXTINF:-1,VIP UK: William Hill One
+http://tunestream.me:8080/thomas/thomas/20576
+#EXTINF:-1,VIP UK: William Hill Two TV
+http://tunestream.me:8080/thomas/thomas/74097
+#EXTINF:-1,VIP UK: BBC RED BUTTON 1 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26205
+#EXTINF:-1,VIP UK: BBC RED BUTTON 2 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26204
+#EXTINF:-1,VIP UK: BBC RED BUTTON 3 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26203
+#EXTINF:-1,VIP UK: BBC RED BUTTON 4 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26202
+#EXTINF:-1,VIP UK: BBC RED BUTTON 5 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26201
+#EXTINF:-1,VIP UK: BBC RED BUTTON 6 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26200
+#EXTINF:-1,VIP UK: Ifollow EFL 1 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26199
+#EXTINF:-1,VIP UK: Ifollow EFL 2 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26198
+#EXTINF:-1,VIP UK: Ifollow EFL 3 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26197
+#EXTINF:-1,VIP UK: Ifollow EFL 4 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26196
+#EXTINF:-1,VIP UK: Ifollow EFL 5 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26195
+#EXTINF:-1,VIP UK: Ifollow EFL 6 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26194
+#EXTINF:-1,VIP UK: Ifollow EFL 7 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26193
+#EXTINF:-1,VIP UK: Ifollow EFL 8 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26192
+#EXTINF:-1,VIP UK: Ifollow EFL 9 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26191
+#EXTINF:-1,VIP UK: Ifollow EFL 10 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26190
+#EXTINF:-1,VIP UK: Ifollow EFL 11 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26189
+#EXTINF:-1,VIP UK: Ifollow EFL 12 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26188
+#EXTINF:-1,VIP UK: Ifollow EFL 13 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26187
+#EXTINF:-1,VIP UK: Ifollow EFL 14 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30631
+#EXTINF:-1,VIP UK: Ifollow EFL 15 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30632
+#EXTINF:-1,VIP UK: Ifollow EFL 16 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30633
+#EXTINF:-1,VIP UK: Ifollow EFL 17 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55994
+#EXTINF:-1,VIP UK: Ifollow EFL 18 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55995
+#EXTINF:-1,VIP UK: Ifollow EFL 19 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55996
+#EXTINF:-1,VIP UK: Ifollow EFL 20 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55997
+#EXTINF:-1,VIP UK: Ifollow EFL 21 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55998
+#EXTINF:-1,VIP UK: Ifollow EFL 22 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/55999
+#EXTINF:-1,VIP UK: Ifollow EFL 23 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/56000
+#EXTINF:-1,VIP UK: Ifollow EFL 24 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/56001
+#EXTINF:-1,VIP UK: Ifollow EFL 25 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/56002
+#EXTINF:-1,VIP UK: Ifollow EFL 26 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/56003
+#EXTINF:-1,VIP UK: Ifollow EFL 27 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/56004
+#EXTINF:-1,VIP UK: Ifollow EFL 28 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/65759
+#EXTINF:-1,VIP UK: Ifollow EFL 29 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/65760
+#EXTINF:-1,VIP UK: Ifollow EFL 30 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/65761
+#EXTINF:-1,VIP UK: Ifollow EFL 31 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/65762
+#EXTINF:-1,VIP UK: Ifollow EFL 32 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/65763
+#EXTINF:-1,VIP UK: Sky Sport Red Button 01 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26214
+#EXTINF:-1,VIP UK: Sky Sport Red Button 02 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26213
+#EXTINF:-1,VIP UK: Sky Sport Red Button 03 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26212
+#EXTINF:-1,VIP UK: Sky Sport Red Button 04 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26211
+#EXTINF:-1,VIP UK: Sky Sport Red Button 05 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26210
+#EXTINF:-1,VIP UK: Sky Sport Red Button 06 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26209
+#EXTINF:-1,VIP UK: Sky Sport Red Button 07 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26208
+#EXTINF:-1,VIP UK: Sky Sport Red Button 08 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26207
+#EXTINF:-1,VIP UK: Sky Sport Red Button 09 [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/26206
+#EXTINF:-1,VIP UK: CELTIC FC TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30557
+#EXTINF:-1,VIP UK: DUNDEE FC TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30553
+#EXTINF:-1,VIP UK: ABERDEEN FC TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30552
+#EXTINF:-1,VIP UK: HEARTS TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30554
+#EXTINF:-1,VIP UK: HIBS FC TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30555
+#EXTINF:-1,VIP UK: Leeds United TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/31105
+#EXTINF:-1,VIP UK: RANGERS FC TV [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/30556
+#EXTINF:-1,VIP UK: SPFL 1 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34646
+#EXTINF:-1,VIP UK: SPFL 2 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34647
+#EXTINF:-1,VIP UK: SPFL 3 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34648
+#EXTINF:-1,VIP UK: SPFL 4 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34649
+#EXTINF:-1,VIP UK: SPFL 5 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34650
+#EXTINF:-1,VIP UK: SPFL 6 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/34651
+#EXTINF:-1,UK: BBC 1
+http://tunestream.me:8080/thomas/thomas/274
+#EXTINF:-1,UK: BBC 2
+http://tunestream.me:8080/thomas/thomas/273
+#EXTINF:-1,UK: BBC 3
+http://tunestream.me:8080/thomas/thomas/272
+#EXTINF:-1,UK: BBC 4
+http://tunestream.me:8080/thomas/thomas/271
+#EXTINF:-1,UK: BBC Scotland
+http://tunestream.me:8080/thomas/thomas/29121
+#EXTINF:-1,UK: BBC One Scotland
+http://tunestream.me:8080/thomas/thomas/17995
+#EXTINF:-1,UK: BBC Two Scotland
+http://tunestream.me:8080/thomas/thomas/17996
+#EXTINF:-1,UK: BBC One Wales
+http://tunestream.me:8080/thomas/thomas/17997
+#EXTINF:-1,UK: BBC Two Wales
+http://tunestream.me:8080/thomas/thomas/29123
+#EXTINF:-1,UK: BBC One Northern Ireland
+http://tunestream.me:8080/thomas/thomas/29122
+#EXTINF:-1,UK: BBC Two Northern Ireland
+http://tunestream.me:8080/thomas/thomas/29124
+#EXTINF:-1,UK: BBC Parliament
+http://tunestream.me:8080/thomas/thomas/17998
+#EXTINF:-1,UK: BBC Alba
+http://tunestream.me:8080/thomas/thomas/17999
+#EXTINF:-1,UK: CBeebies HD
+http://tunestream.me:8080/thomas/thomas/6146
+#EXTINF:-1,UK: CBBC
+http://tunestream.me:8080/thomas/thomas/6147
+#EXTINF:-1,UK: BBC News HD
+http://tunestream.me:8080/thomas/thomas/915
+#EXTINF:-1,UK: BBC World News
+http://tunestream.me:8080/thomas/thomas/26106
+#EXTINF:-1,UK: Itv 1
+http://tunestream.me:8080/thomas/thomas/268
+#EXTINF:-1,UK: ITV 1  1
+http://tunestream.me:8080/thomas/thomas/74182
+#EXTINF:-1,UK: Itv 2
+http://tunestream.me:8080/thomas/thomas/267
+#EXTINF:-1,UK: ITV 2  1
+http://tunestream.me:8080/thomas/thomas/74183
+#EXTINF:-1,UK: Itv 3
+http://tunestream.me:8080/thomas/thomas/252
+#EXTINF:-1,UK: ITV 3  1
+http://tunestream.me:8080/thomas/thomas/74184
+#EXTINF:-1,UK: Itv 4
+http://tunestream.me:8080/thomas/thomas/251
+#EXTINF:-1,UK: ITV 4  1
+http://tunestream.me:8080/thomas/thomas/74185
+#EXTINF:-1,UK: Channel 4 HD
+http://tunestream.me:8080/thomas/thomas/927
+#EXTINF:-1,UK: Channel 5 HD
+http://tunestream.me:8080/thomas/thomas/928
+#EXTINF:-1,UK: Channel 5  1
+http://tunestream.me:8080/thomas/thomas/74149
+#EXTINF:-1,UK: Sky Sport Main Events
+http://tunestream.me:8080/thomas/thomas/259
+#EXTINF:-1,UK: Sky Sport Cricket
+http://tunestream.me:8080/thomas/thomas/258
+#EXTINF:-1,UK: Sky Sport NHL
+http://tunestream.me:8080/thomas/thomas/257
+#EXTINF:-1,UK: Sky Sport Golf
+http://tunestream.me:8080/thomas/thomas/256
+#EXTINF:-1,UK: Sky Sport PL
+http://tunestream.me:8080/thomas/thomas/255
+#EXTINF:-1,UK: Sky Sport F1
+http://tunestream.me:8080/thomas/thomas/253
+#EXTINF:-1,UK: Sky Sport News
+http://tunestream.me:8080/thomas/thomas/416
+#EXTINF:-1,UK: Sky Sport Main Events HD
+http://tunestream.me:8080/thomas/thomas/6680
+#EXTINF:-1,UK: Sky Sport Cricket HD
+http://tunestream.me:8080/thomas/thomas/6681
+#EXTINF:-1,UK: Sky Sport NHL HD
+http://tunestream.me:8080/thomas/thomas/6682
+#EXTINF:-1,UK: Sky Sport Golf HD
+http://tunestream.me:8080/thomas/thomas/6683
+#EXTINF:-1,UK: Sky Sport Premier League HD
+http://tunestream.me:8080/thomas/thomas/6684
+#EXTINF:-1,UK: Sky Sport Football HD
+http://tunestream.me:8080/thomas/thomas/15406
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://tunestream.me:8080/thomas/thomas/12665
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://tunestream.me:8080/thomas/thomas/6685
+#EXTINF:-1,UK: Sky Sports News HD
+http://tunestream.me:8080/thomas/thomas/1624
+#EXTINF:-1,UK: Sky Sports MIX
+http://tunestream.me:8080/thomas/thomas/7608
+#EXTINF:-1,UK: BT Sports 1 HD
+http://tunestream.me:8080/thomas/thomas/1641
+#EXTINF:-1,UK: BT Sports 2 HD
+http://tunestream.me:8080/thomas/thomas/2512
+#EXTINF:-1,UK: BT Sports 3 HD
+http://tunestream.me:8080/thomas/thomas/2513
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://tunestream.me:8080/thomas/thomas/3045
+#EXTINF:-1,UK: BT Sport 1
+http://tunestream.me:8080/thomas/thomas/374
+#EXTINF:-1,UK: BT Sport 2
+http://tunestream.me:8080/thomas/thomas/375
+#EXTINF:-1,UK: BT Sport 3
+http://tunestream.me:8080/thomas/thomas/1282
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://tunestream.me:8080/thomas/thomas/587
+#EXTINF:-1,UK: BT Sport Extra
+http://tunestream.me:8080/thomas/thomas/1247
+#EXTINF:-1,UK: BT Sport Mosaic
+http://tunestream.me:8080/thomas/thomas/7609
+#EXTINF:-1,UK: BT Sport Extra 1
+http://tunestream.me:8080/thomas/thomas/7610
+#EXTINF:-1,UK: BT Sport Extra 2
+http://tunestream.me:8080/thomas/thomas/7611
+#EXTINF:-1,UK: BT Sport Extra 3
+http://tunestream.me:8080/thomas/thomas/7612
+#EXTINF:-1,UK: BT Sport Extra 4
+http://tunestream.me:8080/thomas/thomas/7613
+#EXTINF:-1,UK: Box Nation HD
+http://tunestream.me:8080/thomas/thomas/17004
+#EXTINF:-1,UK: EuroSport 1 HD
+http://tunestream.me:8080/thomas/thomas/1634
+#EXTINF:-1,UK: EuroSport 2
+http://tunestream.me:8080/thomas/thomas/1633
+#EXTINF:-1,UK: Eir Sport 1
+http://tunestream.me:8080/thomas/thomas/376
+#EXTINF:-1,UK: Eir Sport 2
+http://tunestream.me:8080/thomas/thomas/18130
+#EXTINF:-1,UK: Chelsea TV HD
+http://tunestream.me:8080/thomas/thomas/937
+#EXTINF:-1,UK: Racing HD
+http://tunestream.me:8080/thomas/thomas/14151
+#EXTINF:-1,UK: MUTV HD
+http://tunestream.me:8080/thomas/thomas/7631
+#EXTINF:-1,UK: MUTV
+http://tunestream.me:8080/thomas/thomas/1238
+#EXTINF:-1,UK: 3E
+http://tunestream.me:8080/thomas/thomas/920
+#EXTINF:-1,UK: 4Music
+http://tunestream.me:8080/thomas/thomas/12518
+#EXTINF:-1,UK: 4seven
+http://tunestream.me:8080/thomas/thomas/12517
+#EXTINF:-1,UK: 5 Select
+http://tunestream.me:8080/thomas/thomas/12309
+#EXTINF:-1,UK: 5 Star
+http://tunestream.me:8080/thomas/thomas/7616
+#EXTINF:-1,UK: 5 Star  1
+http://tunestream.me:8080/thomas/thomas/74140
+#EXTINF:-1,UK: 5 Usa
+http://tunestream.me:8080/thomas/thomas/922
+#EXTINF:-1,UK: 5 Usa  1
+http://tunestream.me:8080/thomas/thomas/74141
+#EXTINF:-1,UK: Aaj Tak
+http://tunestream.me:8080/thomas/thomas/2858
+#EXTINF:-1,UK: ABP News
+http://tunestream.me:8080/thomas/thomas/2859
+#EXTINF:-1,UK: AL Jazeera HD
+http://tunestream.me:8080/thomas/thomas/74142
+#EXTINF:-1,UK: Alibi
+http://tunestream.me:8080/thomas/thomas/933
+#EXTINF:-1,UK: Alibi  1
+http://tunestream.me:8080/thomas/thomas/74143
+#EXTINF:-1,UK: AMC From BT
+http://tunestream.me:8080/thomas/thomas/12495
+#EXTINF:-1,UK: And TV
+http://tunestream.me:8080/thomas/thomas/2841
+#EXTINF:-1,UK: Animal Planet  1
+http://tunestream.me:8080/thomas/thomas/74144
+#EXTINF:-1,UK: Animal Planet HD
+http://tunestream.me:8080/thomas/thomas/1643
+#EXTINF:-1,UK: Arirang TV
+http://tunestream.me:8080/thomas/thomas/74145
+#EXTINF:-1,UK: Aris News
+http://tunestream.me:8080/thomas/thomas/74146
+#EXTINF:-1,UK: B4U Kadak
+http://tunestream.me:8080/thomas/thomas/2851
+#EXTINF:-1,UK: B4U Movies
+http://tunestream.me:8080/thomas/thomas/2850
+#EXTINF:-1,UK: B4U Music
+http://tunestream.me:8080/thomas/thomas/2853
+#EXTINF:-1,UK: baby tv
+http://tunestream.me:8080/thomas/thomas/2232
+#EXTINF:-1,UK: BET
+http://tunestream.me:8080/thomas/thomas/7618
+#EXTINF:-1,UK: Bike
+http://tunestream.me:8080/thomas/thomas/12515
+#EXTINF:-1,UK: Blaze
+http://tunestream.me:8080/thomas/thomas/12514
+#EXTINF:-1,UK: Bloomberg
+http://tunestream.me:8080/thomas/thomas/12513
+#EXTINF:-1,UK: Boomerang
+http://tunestream.me:8080/thomas/thomas/1285
+#EXTINF:-1,UK: BOX Hits
+http://tunestream.me:8080/thomas/thomas/20572
+#EXTINF:-1,UK: Brit Asia
+http://tunestream.me:8080/thomas/thomas/74147
+#EXTINF:-1,UK: British Muslim
+http://tunestream.me:8080/thomas/thomas/74148
+#EXTINF:-1,UK: C ITV
+http://tunestream.me:8080/thomas/thomas/12511
+#EXTINF:-1,UK: Cartoon network
+http://tunestream.me:8080/thomas/thomas/2231
+#EXTINF:-1,UK: Cartoonito
+http://tunestream.me:8080/thomas/thomas/17913
+#EXTINF:-1,UK: CBS Drama
+http://tunestream.me:8080/thomas/thomas/924
+#EXTINF:-1,UK: CBS Justice
+http://tunestream.me:8080/thomas/thomas/926
+#EXTINF:-1,UK: CBS Reality
+http://tunestream.me:8080/thomas/thomas/925
+#EXTINF:-1,UK: Challenge
+http://tunestream.me:8080/thomas/thomas/12512
+#EXTINF:-1,UK: Chart Show Hits UK
+http://tunestream.me:8080/thomas/thomas/20591
+#EXTINF:-1,UK: Club MTV
+http://tunestream.me:8080/thomas/thomas/12308
+#EXTINF:-1,UK: Clubland TV
+http://tunestream.me:8080/thomas/thomas/42042
+#EXTINF:-1,UK: CNBC News
+http://tunestream.me:8080/thomas/thomas/12365
+#EXTINF:-1,UK: CNN HD
+http://tunestream.me:8080/thomas/thomas/31078
+#EXTINF:-1,UK: Colors
+http://tunestream.me:8080/thomas/thomas/2845
+#EXTINF:-1,UK: Colors Europe
+http://tunestream.me:8080/thomas/thomas/2846
+#EXTINF:-1,UK: Comedy Central Extra
+http://tunestream.me:8080/thomas/thomas/1639
+#EXTINF:-1,UK: Comedy Central HD
+http://tunestream.me:8080/thomas/thomas/2219
+#EXTINF:-1,UK: Court TV
+http://tunestream.me:8080/thomas/thomas/74150
+#EXTINF:-1,UK: Craft Extra
+http://tunestream.me:8080/thomas/thomas/74151
+#EXTINF:-1,UK: Create & Craft
+http://tunestream.me:8080/thomas/thomas/74152
+#EXTINF:-1,UK: Crime & Investigation HD
+http://tunestream.me:8080/thomas/thomas/12509
+#EXTINF:-1,UK: Cruise 1st TV
+http://tunestream.me:8080/thomas/thomas/74153
+#EXTINF:-1,UK: Dave HD
+http://tunestream.me:8080/thomas/thomas/934
+#EXTINF:-1,UK: Discovery
+http://tunestream.me:8080/thomas/thomas/1638
+#EXTINF:-1,UK: Discovery  1
+http://tunestream.me:8080/thomas/thomas/74154
+#EXTINF:-1,UK: Discovery History
+http://tunestream.me:8080/thomas/thomas/1245
+#EXTINF:-1,UK: Discovery History  1
+http://tunestream.me:8080/thomas/thomas/74155
+#EXTINF:-1,UK: Discovery Science
+http://tunestream.me:8080/thomas/thomas/1299
+#EXTINF:-1,UK: Discovery Science  1
+http://tunestream.me:8080/thomas/thomas/74156
+#EXTINF:-1,UK: Discovery Shed
+http://tunestream.me:8080/thomas/thomas/12508
+#EXTINF:-1,UK: Discovery Turbo
+http://tunestream.me:8080/thomas/thomas/1637
+#EXTINF:-1,UK: Discovery Turbo  1
+http://tunestream.me:8080/thomas/thomas/74157
+#EXTINF:-1,UK: DISNEY HD
+http://tunestream.me:8080/thomas/thomas/1298
+#EXTINF:-1,UK: Disney XD
+http://tunestream.me:8080/thomas/thomas/12507
+#EXTINF:-1,UK: DMAX  1
+http://tunestream.me:8080/thomas/thomas/74158
+#EXTINF:-1,UK: DMAX HD
+http://tunestream.me:8080/thomas/thomas/2220
+#EXTINF:-1,UK: Drama
+http://tunestream.me:8080/thomas/thomas/1272
+#EXTINF:-1,UK: Drama  1
+http://tunestream.me:8080/thomas/thomas/74159
+#EXTINF:-1,UK: E!
+http://tunestream.me:8080/thomas/thomas/1635
+#EXTINF:-1,UK: E4
+http://tunestream.me:8080/thomas/thomas/7632
+#EXTINF:-1,UK: E4  1
+http://tunestream.me:8080/thomas/thomas/74160
+#EXTINF:-1,UK: E4 HD
+http://tunestream.me:8080/thomas/thomas/1270
+#EXTINF:-1,UK: Eden  1
+http://tunestream.me:8080/thomas/thomas/74161
+#EXTINF:-1,UK: EDEN HD
+http://tunestream.me:8080/thomas/thomas/7628
+#EXTINF:-1,UK: Eman AR
+http://tunestream.me:8080/thomas/thomas/74162
+#EXTINF:-1,UK: EURONEWS
+http://tunestream.me:8080/thomas/thomas/74163
+#EXTINF:-1,UK: EWTN
+http://tunestream.me:8080/thomas/thomas/74164
+#EXTINF:-1,UK: Faith
+http://tunestream.me:8080/thomas/thomas/74165
+#EXTINF:-1,UK: FILM 4  1
+http://tunestream.me:8080/thomas/thomas/74166
+#EXTINF:-1,UK: Film 4 HD
+http://tunestream.me:8080/thomas/thomas/917
+#EXTINF:-1,UK: Film4 HD
+http://tunestream.me:8080/thomas/thomas/7627
+#EXTINF:-1,UK: Fine Living Network
+http://tunestream.me:8080/thomas/thomas/1268
+#EXTINF:-1,UK: Five
+http://tunestream.me:8080/thomas/thomas/20573
+#EXTINF:-1,UK: Food Network
+http://tunestream.me:8080/thomas/thomas/4389
+#EXTINF:-1,UK: FOOD XP
+http://tunestream.me:8080/thomas/thomas/74167
+#EXTINF:-1,UK: FORCES TV
+http://tunestream.me:8080/thomas/thomas/74168
+#EXTINF:-1,UK: Fox
+http://tunestream.me:8080/thomas/thomas/1632
+#EXTINF:-1,UK: Fox News HD
+http://tunestream.me:8080/thomas/thomas/2234
+#EXTINF:-1,UK: France 24
+http://tunestream.me:8080/thomas/thomas/12504
+#EXTINF:-1,UK: Free Sports
+http://tunestream.me:8080/thomas/thomas/12505
+#EXTINF:-1,UK: GOD TV
+http://tunestream.me:8080/thomas/thomas/74169
+#EXTINF:-1,UK: Gold
+http://tunestream.me:8080/thomas/thomas/932
+#EXTINF:-1,UK: GOLD  1
+http://tunestream.me:8080/thomas/thomas/74170
+#EXTINF:-1,UK: Good Food
+http://tunestream.me:8080/thomas/thomas/923
+#EXTINF:-1,UK: H&H+1
+http://tunestream.me:8080/thomas/thomas/931
+#EXTINF:-1,UK: H2
+http://tunestream.me:8080/thomas/thomas/2237
+#EXTINF:-1,UK: HGTV
+http://tunestream.me:8080/thomas/thomas/74171
+#EXTINF:-1,UK: HIDAYAT
+http://tunestream.me:8080/thomas/thomas/74172
+#EXTINF:-1,UK: High Street TV
+http://tunestream.me:8080/thomas/thomas/74173
+#EXTINF:-1,UK: Hillsong
+http://tunestream.me:8080/thomas/thomas/74174
+#EXTINF:-1,UK: History HD
+http://tunestream.me:8080/thomas/thomas/2236
+#EXTINF:-1,UK: Hochanda
+http://tunestream.me:8080/thomas/thomas/74175
+#EXTINF:-1,UK: Home Health
+http://tunestream.me:8080/thomas/thomas/12503
+#EXTINF:-1,UK: Horror Channel
+http://tunestream.me:8080/thomas/thomas/935
+#EXTINF:-1,UK: Horror Channel  1
+http://tunestream.me:8080/thomas/thomas/74176
+#EXTINF:-1,UK: Horse and Country
+http://tunestream.me:8080/thomas/thomas/7617
+#EXTINF:-1,UK: ID  1
+http://tunestream.me:8080/thomas/thomas/74180
+#EXTINF:-1,UK: Ideal World HD
+http://tunestream.me:8080/thomas/thomas/74177
+#EXTINF:-1,UK: Insight TV HD
+http://tunestream.me:8080/thomas/thomas/74178
+#EXTINF:-1,UK: Inspiration TV
+http://tunestream.me:8080/thomas/thomas/74179
+#EXTINF:-1,UK: Investigation Discovery
+http://tunestream.me:8080/thomas/thomas/1296
+#EXTINF:-1,UK: iON TV
+http://tunestream.me:8080/thomas/thomas/74181
+#EXTINF:-1,UK: ITV Anglia
+http://tunestream.me:8080/thomas/thomas/74186
+#EXTINF:-1,UK: ITV BE  1
+http://tunestream.me:8080/thomas/thomas/74187
+#EXTINF:-1,UK: ITV Encore
+http://tunestream.me:8080/thomas/thomas/74188
+#EXTINF:-1,UK: ITV Granada
+http://tunestream.me:8080/thomas/thomas/74189
+#EXTINF:-1,UK: ITV London
+http://tunestream.me:8080/thomas/thomas/74190
+#EXTINF:-1,UK: ITV Yorkshire
+http://tunestream.me:8080/thomas/thomas/74191
+#EXTINF:-1,UK: ITVBE
+http://tunestream.me:8080/thomas/thomas/2224
+#EXTINF:-1,UK: Kanshi TV
+http://tunestream.me:8080/thomas/thomas/74192
+#EXTINF:-1,UK: Keep It Country
+http://tunestream.me:8080/thomas/thomas/74193
+#EXTINF:-1,UK: Kerrang TV
+http://tunestream.me:8080/thomas/thomas/20578
+#EXTINF:-1,UK: LFC TV
+http://tunestream.me:8080/thomas/thomas/1239
+#EXTINF:-1,UK: Life Time HD
+http://tunestream.me:8080/thomas/thomas/12501
+#EXTINF:-1,UK: Live 360
+http://tunestream.me:8080/thomas/thomas/74194
+#EXTINF:-1,UK: Living
+http://tunestream.me:8080/thomas/thomas/74195
+#EXTINF:-1,UK: Living HD
+http://tunestream.me:8080/thomas/thomas/74196
+#EXTINF:-1,UK: London Live
+http://tunestream.me:8080/thomas/thomas/12500
+#EXTINF:-1,UK: Love Nature
+http://tunestream.me:8080/thomas/thomas/74197
+#EXTINF:-1,UK: Love Nature HD
+http://tunestream.me:8080/thomas/thomas/74198
+#EXTINF:-1,UK: Love World
+http://tunestream.me:8080/thomas/thomas/74199
+#EXTINF:-1,UK: Love World HD
+http://tunestream.me:8080/thomas/thomas/74200
+#EXTINF:-1,UK: Madani Channel
+http://tunestream.me:8080/thomas/thomas/74201
+#EXTINF:-1,UK: Magic TV
+http://tunestream.me:8080/thomas/thomas/12498
+#EXTINF:-1,UK: MATV National
+http://tunestream.me:8080/thomas/thomas/74202
+#EXTINF:-1,UK: More 4
+http://tunestream.me:8080/thomas/thomas/1295
+#EXTINF:-1,UK: More 4  1
+http://tunestream.me:8080/thomas/thomas/74203
+#EXTINF:-1,UK: More 4 HD
+http://tunestream.me:8080/thomas/thomas/7630
+#EXTINF:-1,UK: Motors
+http://tunestream.me:8080/thomas/thomas/12499
+#EXTINF:-1,UK: Movies4Men
+http://tunestream.me:8080/thomas/thomas/1263
+#EXTINF:-1,UK: MTV
+http://tunestream.me:8080/thomas/thomas/7620
+#EXTINF:-1,UK: MTV Base
+http://tunestream.me:8080/thomas/thomas/12305
+#EXTINF:-1,UK: MTV Classic
+http://tunestream.me:8080/thomas/thomas/7619
+#EXTINF:-1,UK: MTV Dance
+http://tunestream.me:8080/thomas/thomas/26351
+#EXTINF:-1,UK: MTV HD
+http://tunestream.me:8080/thomas/thomas/7622
+#EXTINF:-1,UK: MTV Hits
+http://tunestream.me:8080/thomas/thomas/7621
+#EXTINF:-1,UK: MTV Live FHD
+http://tunestream.me:8080/thomas/thomas/35379
+#EXTINF:-1,UK: MTV Music
+http://tunestream.me:8080/thomas/thomas/12306
+#EXTINF:-1,UK: MTV OMG
+http://tunestream.me:8080/thomas/thomas/26352
+#EXTINF:-1,UK: MTV Rocks
+http://tunestream.me:8080/thomas/thomas/12307
+#EXTINF:-1,UK: My TV
+http://tunestream.me:8080/thomas/thomas/74204
+#EXTINF:-1,UK: Nat Geo
+http://tunestream.me:8080/thomas/thomas/1293
+#EXTINF:-1,UK: Nat Geo Wild
+http://tunestream.me:8080/thomas/thomas/1302
+#EXTINF:-1,UK: New Vision TV
+http://tunestream.me:8080/thomas/thomas/74205
+#EXTINF:-1,UK: News Max
+http://tunestream.me:8080/thomas/thomas/74206
+#EXTINF:-1,UK: NHK WORLD
+http://tunestream.me:8080/thomas/thomas/74207
+#EXTINF:-1,UK: Nick Jnr Too
+http://tunestream.me:8080/thomas/thomas/12496
+#EXTINF:-1,UK: NICK JUNIOR
+http://tunestream.me:8080/thomas/thomas/1292
+#EXTINF:-1,UK: NICK TOONS
+http://tunestream.me:8080/thomas/thomas/1261
+#EXTINF:-1,UK: Nickelodeon
+http://tunestream.me:8080/thomas/thomas/1291
+#EXTINF:-1,UK: Nollywood
+http://tunestream.me:8080/thomas/thomas/14150
+#EXTINF:-1,UK: Now 80s
+http://tunestream.me:8080/thomas/thomas/26617
+#EXTINF:-1,UK: Now 90s
+http://tunestream.me:8080/thomas/thomas/20579
+#EXTINF:-1,UK: Paramount Network
+http://tunestream.me:8080/thomas/thomas/74208
+#EXTINF:-1,UK: PBS America
+http://tunestream.me:8080/thomas/thomas/20574
+#EXTINF:-1,UK: Pcne Chinese
+http://tunestream.me:8080/thomas/thomas/74209
+#EXTINF:-1,UK: Peace TV
+http://tunestream.me:8080/thomas/thomas/74210
+#EXTINF:-1,UK: PICK
+http://tunestream.me:8080/thomas/thomas/2223
+#EXTINF:-1,UK: POP
+http://tunestream.me:8080/thomas/thomas/12494
+#EXTINF:-1,UK: Pop Max
+http://tunestream.me:8080/thomas/thomas/74211
+#EXTINF:-1,UK: Quest
+http://tunestream.me:8080/thomas/thomas/921
+#EXTINF:-1,UK: Quest RED
+http://tunestream.me:8080/thomas/thomas/74212
+#EXTINF:-1,UK: Quest Red +1
+http://tunestream.me:8080/thomas/thomas/20417
+#EXTINF:-1,UK: QVC
+http://tunestream.me:8080/thomas/thomas/74213
+#EXTINF:-1,UK: QVC Beauty
+http://tunestream.me:8080/thomas/thomas/74214
+#EXTINF:-1,UK: QVC Extra
+http://tunestream.me:8080/thomas/thomas/74215
+#EXTINF:-1,UK: QVC Style
+http://tunestream.me:8080/thomas/thomas/74216
+#EXTINF:-1,UK: Real Lives
+http://tunestream.me:8080/thomas/thomas/2222
+#EXTINF:-1,UK: Really
+http://tunestream.me:8080/thomas/thomas/1631
+#EXTINF:-1,UK: Replay
+http://tunestream.me:8080/thomas/thomas/74217
+#EXTINF:-1,UK: Rishtey
+http://tunestream.me:8080/thomas/thomas/2843
+#EXTINF:-1,UK: ROK TV
+http://tunestream.me:8080/thomas/thomas/20575
+#EXTINF:-1,UK: RT Documentary HD
+http://tunestream.me:8080/thomas/thomas/20570
+#EXTINF:-1,UK: RTE 1 HD
+http://tunestream.me:8080/thomas/thomas/12493
+#EXTINF:-1,UK: RTE 2 HD
+http://tunestream.me:8080/thomas/thomas/12492
+#EXTINF:-1,UK: RTE News Now
+http://tunestream.me:8080/thomas/thomas/20569
+#EXTINF:-1,UK: Rte One
+http://tunestream.me:8080/thomas/thomas/418
+#EXTINF:-1,UK: Rte two
+http://tunestream.me:8080/thomas/thomas/584
+#EXTINF:-1,UK: RTEjr
+http://tunestream.me:8080/thomas/thomas/2227
+#EXTINF:-1,UK: S4C
+http://tunestream.me:8080/thomas/thomas/12491
+#EXTINF:-1,UK: Sab TV (SET)
+http://tunestream.me:8080/thomas/thomas/2840
+#EXTINF:-1,UK: SET Max
+http://tunestream.me:8080/thomas/thomas/2849
+#EXTINF:-1,UK: SKY 1 HD
+http://tunestream.me:8080/thomas/thomas/7629
+#EXTINF:-1,UK: Sky Arts
+http://tunestream.me:8080/thomas/thomas/414
+#EXTINF:-1,UK: Sky Atlantic
+http://tunestream.me:8080/thomas/thomas/12275
+#EXTINF:-1,UK: Sky Living
+http://tunestream.me:8080/thomas/thomas/585
+#EXTINF:-1,UK: Sky Movies Action & Adv
+http://tunestream.me:8080/thomas/thomas/264
+#EXTINF:-1,UK: Sky Movies Comedy
+http://tunestream.me:8080/thomas/thomas/263
+#EXTINF:-1,UK: Sky Movies Drama
+http://tunestream.me:8080/thomas/thomas/265
+#EXTINF:-1,UK: Sky Movies Family
+http://tunestream.me:8080/thomas/thomas/266
+#EXTINF:-1,UK: Sky Movies Modern-Geant
+http://tunestream.me:8080/thomas/thomas/262
+#EXTINF:-1,UK: Sky Movies Premiere
+http://tunestream.me:8080/thomas/thomas/261
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://tunestream.me:8080/thomas/thomas/254
+#EXTINF:-1,UK: Sky Movies Select
+http://tunestream.me:8080/thomas/thomas/260
+#EXTINF:-1,UK: Sky Movies Showcase
+http://tunestream.me:8080/thomas/thomas/269
+#EXTINF:-1,UK: Sky Movies Thriller
+http://tunestream.me:8080/thomas/thomas/270
+#EXTINF:-1,UK: Sky News
+http://tunestream.me:8080/thomas/thomas/930
+#EXTINF:-1,UK: Sky One
+http://tunestream.me:8080/thomas/thomas/417
+#EXTINF:-1,UK: Sky Two
+http://tunestream.me:8080/thomas/thomas/415
+#EXTINF:-1,UK: Sky Witness
+http://tunestream.me:8080/thomas/thomas/20568
+#EXTINF:-1,UK: Sony Channel
+http://tunestream.me:8080/thomas/thomas/12489
+#EXTINF:-1,UK: Sony Entertainment (SET)
+http://tunestream.me:8080/thomas/thomas/2839
+#EXTINF:-1,UK: spike
+http://tunestream.me:8080/thomas/thomas/2226
+#EXTINF:-1,UK: Sportystaff TV
+http://tunestream.me:8080/thomas/thomas/74218
+#EXTINF:-1,UK: Spotlight TV
+http://tunestream.me:8080/thomas/thomas/74219
+#EXTINF:-1,UK: Star Bharat
+http://tunestream.me:8080/thomas/thomas/2842
+#EXTINF:-1,UK: Star Gold
+http://tunestream.me:8080/thomas/thomas/2848
+#EXTINF:-1,UK: Star Jalsha
+http://tunestream.me:8080/thomas/thomas/2857
+#EXTINF:-1,UK: Star Plus
+http://tunestream.me:8080/thomas/thomas/2838
+#EXTINF:-1,UK: Starz TV
+http://tunestream.me:8080/thomas/thomas/12488
+#EXTINF:-1,UK: STV HD
+http://tunestream.me:8080/thomas/thomas/12487
+#EXTINF:-1,UK: Syfy
+http://tunestream.me:8080/thomas/thomas/25878
+#EXTINF:-1,UK: Talking Pictures HD
+http://tunestream.me:8080/thomas/thomas/12483
+#EXTINF:-1,UK: TCM HD
+http://tunestream.me:8080/thomas/thomas/21324
+#EXTINF:-1,UK: Tcm Movies  1
+http://tunestream.me:8080/thomas/thomas/74220
+#EXTINF:-1,UK: TG4
+http://tunestream.me:8080/thomas/thomas/1255
+#EXTINF:-1,UK: The Vault
+http://tunestream.me:8080/thomas/thomas/12486
+#EXTINF:-1,UK: Tiny Pop
+http://tunestream.me:8080/thomas/thomas/12485
+#EXTINF:-1,UK: TLC
+http://tunestream.me:8080/thomas/thomas/2074
+#EXTINF:-1,UK: TLC  1
+http://tunestream.me:8080/thomas/thomas/74221
+#EXTINF:-1,UK: Together
+http://tunestream.me:8080/thomas/thomas/74222
+#EXTINF:-1,UK: Total Country
+http://tunestream.me:8080/thomas/thomas/20571
+#EXTINF:-1,UK: Travel Channel
+http://tunestream.me:8080/thomas/thomas/12484
+#EXTINF:-1,UK: Travel XP
+http://tunestream.me:8080/thomas/thomas/74223
+#EXTINF:-1,UK: True Ent
+http://tunestream.me:8080/thomas/thomas/12482
+#EXTINF:-1,UK: True Movies 1
+http://tunestream.me:8080/thomas/thomas/1251
+#EXTINF:-1,UK: True TV
+http://tunestream.me:8080/thomas/thomas/12481
+#EXTINF:-1,UK: TV ONE
+http://tunestream.me:8080/thomas/thomas/74224
+#EXTINF:-1,UK: TV3 IR HD
+http://tunestream.me:8080/thomas/thomas/2225
+#EXTINF:-1,UK: TV5
+http://tunestream.me:8080/thomas/thomas/12480
+#EXTINF:-1,UK: UFC fight night Pass HD
+http://tunestream.me:8080/thomas/thomas/12520
+#EXTINF:-1,UK: UFC Fight PASS
+http://tunestream.me:8080/thomas/thomas/12479
+#EXTINF:-1,UK: Universal Channel HD
+http://tunestream.me:8080/thomas/thomas/12276
+#EXTINF:-1,UK: UTV Ireland
+http://tunestream.me:8080/thomas/thomas/2221
+#EXTINF:-1,UK: V2BEAT
+http://tunestream.me:8080/thomas/thomas/74225
+#EXTINF:-1,UK: Venus
+http://tunestream.me:8080/thomas/thomas/74226
+#EXTINF:-1,UK: VH1 Classic
+http://tunestream.me:8080/thomas/thomas/13841
+#EXTINF:-1,UK: Viceland HD
+http://tunestream.me:8080/thomas/thomas/12478
+#EXTINF:-1,UK: VIVA
+http://tunestream.me:8080/thomas/thomas/12477
+#EXTINF:-1,UK: W HD
+http://tunestream.me:8080/thomas/thomas/12476
+#EXTINF:-1,UK: Watch
+http://tunestream.me:8080/thomas/thomas/1252
+#EXTINF:-1,UK: YANGA
+http://tunestream.me:8080/thomas/thomas/74227
+#EXTINF:-1,UK: Yesterday HD
+http://tunestream.me:8080/thomas/thomas/936
+#EXTINF:-1,UK: Zee Cinema
+http://tunestream.me:8080/thomas/thomas/2847
+#EXTINF:-1,UK: Zee Punjabi
+http://tunestream.me:8080/thomas/thomas/2855
+#EXTINF:-1,UK: Zee TV
+http://tunestream.me:8080/thomas/thomas/2837
+#EXTINF:-1,UK: Zing
+http://tunestream.me:8080/thomas/thomas/2854
+#EXTINF:-1,===== USA =====
+http://tunestream.me:8080/thomas/thomas/1202
+#EXTINF:-1,VIP US:  DESTINATION AMERICA
+http://tunestream.me:8080/thomas/thomas/10645
+#EXTINF:-1,VIP US: 7 WWSB FL Sarasota HD
+http://tunestream.me:8080/thomas/thomas/10719
+#EXTINF:-1,VIP US: A&E HD
+http://tunestream.me:8080/thomas/thomas/10699
+#EXTINF:-1,VIP US: ABC Action News
+http://tunestream.me:8080/thomas/thomas/10652
+#EXTINF:-1,VIP US: ABC Atlanta
+http://tunestream.me:8080/thomas/thomas/22143
+#EXTINF:-1,VIP US: ABC Baltimore
+http://tunestream.me:8080/thomas/thomas/22142
+#EXTINF:-1,VIP US: ABC Boston
+http://tunestream.me:8080/thomas/thomas/22141
+#EXTINF:-1,VIP US: ABC Charlotte
+http://tunestream.me:8080/thomas/thomas/22140
+#EXTINF:-1,VIP US: ABC Chicago
+http://tunestream.me:8080/thomas/thomas/22139
+#EXTINF:-1,VIP US: ABC Cleveland
+http://tunestream.me:8080/thomas/thomas/22138
+#EXTINF:-1,VIP US: ABC Connecticut
+http://tunestream.me:8080/thomas/thomas/22137
+#EXTINF:-1,VIP US: ABC Dallas
+http://tunestream.me:8080/thomas/thomas/22136
+#EXTINF:-1,VIP US: ABC Denver
+http://tunestream.me:8080/thomas/thomas/22135
+#EXTINF:-1,VIP US: ABC Detroit
+http://tunestream.me:8080/thomas/thomas/22134
+#EXTINF:-1,VIP US: ABC Durham
+http://tunestream.me:8080/thomas/thomas/22133
+#EXTINF:-1,VIP US: ABC FAMILY/SPARK
+http://tunestream.me:8080/thomas/thomas/10654
+#EXTINF:-1,VIP US: ABC Fresno
+http://tunestream.me:8080/thomas/thomas/22132
+#EXTINF:-1,VIP US: ABC HD
+http://tunestream.me:8080/thomas/thomas/10651
+#EXTINF:-1,VIP US: ABC houston
+http://tunestream.me:8080/thomas/thomas/22131
+#EXTINF:-1,VIP US: ABC Indianapolis
+http://tunestream.me:8080/thomas/thomas/22130
+#EXTINF:-1,VIP US: ABC Kansas City
+http://tunestream.me:8080/thomas/thomas/22129
+#EXTINF:-1,VIP US: ABC Los Angeles
+http://tunestream.me:8080/thomas/thomas/22128
+#EXTINF:-1,VIP US: ABC Miami
+http://tunestream.me:8080/thomas/thomas/22127
+#EXTINF:-1,VIP US: ABC Milwaukee
+http://tunestream.me:8080/thomas/thomas/22126
+#EXTINF:-1,VIP US: ABC Nashville
+http://tunestream.me:8080/thomas/thomas/22125
+#EXTINF:-1,VIP US: ABC New York
+http://tunestream.me:8080/thomas/thomas/22124
+#EXTINF:-1,VIP US: ABC News
+http://tunestream.me:8080/thomas/thomas/10653
+#EXTINF:-1,VIP US: ABC Orlando
+http://tunestream.me:8080/thomas/thomas/22123
+#EXTINF:-1,VIP US: ABC Philadelphia
+http://tunestream.me:8080/thomas/thomas/22122
+#EXTINF:-1,VIP US: ABC Phoenix
+http://tunestream.me:8080/thomas/thomas/22121
+#EXTINF:-1,VIP US: ABC Pittsburgh
+http://tunestream.me:8080/thomas/thomas/22120
+#EXTINF:-1,VIP US: ABC Portland
+http://tunestream.me:8080/thomas/thomas/22119
+#EXTINF:-1,VIP US: ABC Sacramento
+http://tunestream.me:8080/thomas/thomas/22118
+#EXTINF:-1,VIP US: ABC Saint Paul
+http://tunestream.me:8080/thomas/thomas/22117
+#EXTINF:-1,VIP US: ABC Salt lake city
+http://tunestream.me:8080/thomas/thomas/22116
+#EXTINF:-1,VIP US: ABC San Antonio
+http://tunestream.me:8080/thomas/thomas/22115
+#EXTINF:-1,VIP US: ABC San Diego
+http://tunestream.me:8080/thomas/thomas/22114
+#EXTINF:-1,VIP US: ABC San Francisco
+http://tunestream.me:8080/thomas/thomas/22113
+#EXTINF:-1,VIP US: ABC Seattle
+http://tunestream.me:8080/thomas/thomas/22112
+#EXTINF:-1,VIP US: ABC St Louis
+http://tunestream.me:8080/thomas/thomas/22111
+#EXTINF:-1,VIP US: ABC Tampa Bay
+http://tunestream.me:8080/thomas/thomas/22110
+#EXTINF:-1,VIP US: ABC Washington
+http://tunestream.me:8080/thomas/thomas/22109
+#EXTINF:-1,VIP US: ACC HD
+http://tunestream.me:8080/thomas/thomas/22871
+#EXTINF:-1,VIP US: Adult Swim
+http://tunestream.me:8080/thomas/thomas/10648
+#EXTINF:-1,VIP US: NBC Universo
+http://tunestream.me:8080/thomas/thomas/10627
+#EXTINF:-1,VIP US: AHC
+http://tunestream.me:8080/thomas/thomas/10647
+#EXTINF:-1,VIP US: AL JAZEERA HD
+http://tunestream.me:8080/thomas/thomas/10698
+#EXTINF:-1,VIP US: AMC
+http://tunestream.me:8080/thomas/thomas/10754
+#EXTINF:-1,VIP US: ANIMAL PLANET
+http://tunestream.me:8080/thomas/thomas/10768
+#EXTINF:-1,VIP US: Antenna Tv
+http://tunestream.me:8080/thomas/thomas/22924
+#EXTINF:-1,VIP US: AT&T Sports Net HD
+http://tunestream.me:8080/thomas/thomas/34678
+#EXTINF:-1,VIP US: AXS HD
+http://tunestream.me:8080/thomas/thomas/22863
+#EXTINF:-1,VIP US: BBC America
+http://tunestream.me:8080/thomas/thomas/10697
+#EXTINF:-1,VIP US: BEIN SPORTS 4 FHD (Live During Events Only)
+http://tunestream.me:8080/thomas/thomas/30740
+#EXTINF:-1,VIP US: BEIN SPORTS 5 FHD (Live During Events Only)
+http://tunestream.me:8080/thomas/thomas/30741
+#EXTINF:-1,VIP US: BEIN SPORTS 6 FHD (Live During Events Only)
+http://tunestream.me:8080/thomas/thomas/30742
+#EXTINF:-1,VIP US: BEIN SPORTS 7 FHD (Live During Events Only)
+http://tunestream.me:8080/thomas/thomas/30743
+#EXTINF:-1,VIP US: BEIN SPORTS 8 FHD (Live During Events Only)
+http://tunestream.me:8080/thomas/thomas/30744
+#EXTINF:-1,VIP US: BEIN SPORTS Connect FHD
+http://tunestream.me:8080/thomas/thomas/30738
+#EXTINF:-1,VIP US: BEIN SPORTS N FHD
+http://tunestream.me:8080/thomas/thomas/30739
+#EXTINF:-1,VIP US: BEIN SPORTS US
+http://tunestream.me:8080/thomas/thomas/10696
+#EXTINF:-1,VIP US: BEIN SPORTS XTRA FHD
+http://tunestream.me:8080/thomas/thomas/30991
+#EXTINF:-1,VIP US: BET
+http://tunestream.me:8080/thomas/thomas/22923
+#EXTINF:-1,VIP US: BET Her
+http://tunestream.me:8080/thomas/thomas/22922
+#EXTINF:-1,VIP US: Big Ten Network HD
+http://tunestream.me:8080/thomas/thomas/10681
+#EXTINF:-1,VIP US: BLOOMBERG TV
+http://tunestream.me:8080/thomas/thomas/10747
+#EXTINF:-1,VIP US: Boomerang
+http://tunestream.me:8080/thomas/thomas/15554
+#EXTINF:-1,VIP US: Bounce Tv
+http://tunestream.me:8080/thomas/thomas/22921
+#EXTINF:-1,VIP US: Bravo HD
+http://tunestream.me:8080/thomas/thomas/10701
+#EXTINF:-1,VIP US: Buzzer
+http://tunestream.me:8080/thomas/thomas/22920
+#EXTINF:-1,VIP US: BYU HD
+http://tunestream.me:8080/thomas/thomas/22883
+#EXTINF:-1,VIP US: C-SPAN 1 HD
+http://tunestream.me:8080/thomas/thomas/10712
+#EXTINF:-1,VIP US: C-SPAN 2 HD
+http://tunestream.me:8080/thomas/thomas/10711
+#EXTINF:-1,VIP US: C-SPAN 3 HD
+http://tunestream.me:8080/thomas/thomas/10710
+#EXTINF:-1,VIP US: CAPITAL TV
+http://tunestream.me:8080/thomas/thomas/10714
+#EXTINF:-1,VIP US: CARTOON NETWORK
+http://tunestream.me:8080/thomas/thomas/10694
+#EXTINF:-1,VIP US: CBS Atlanta
+http://tunestream.me:8080/thomas/thomas/22108
+#EXTINF:-1,VIP US: CBS Baltimore
+http://tunestream.me:8080/thomas/thomas/22107
+#EXTINF:-1,VIP US: CBS Boston
+http://tunestream.me:8080/thomas/thomas/22106
+#EXTINF:-1,VIP US: CBS Charlotte
+http://tunestream.me:8080/thomas/thomas/22105
+#EXTINF:-1,VIP US: CBS Chicago
+http://tunestream.me:8080/thomas/thomas/22104
+#EXTINF:-1,VIP US: CBS Cleveland
+http://tunestream.me:8080/thomas/thomas/22103
+#EXTINF:-1,VIP US: CBS Columbus
+http://tunestream.me:8080/thomas/thomas/22102
+#EXTINF:-1,VIP US: CBS Dallas
+http://tunestream.me:8080/thomas/thomas/22101
+#EXTINF:-1,VIP US: CBS Dayton
+http://tunestream.me:8080/thomas/thomas/27868
+#EXTINF:-1,VIP US: CBS Denver
+http://tunestream.me:8080/thomas/thomas/22100
+#EXTINF:-1,VIP US: CBS Detroit
+http://tunestream.me:8080/thomas/thomas/22099
+#EXTINF:-1,VIP US: CBS Greensboro
+http://tunestream.me:8080/thomas/thomas/22098
+#EXTINF:-1,VIP US: CBS Hartford
+http://tunestream.me:8080/thomas/thomas/22097
+#EXTINF:-1,VIP US: CBS HD
+http://tunestream.me:8080/thomas/thomas/10767
+#EXTINF:-1,VIP US: CBS Houston
+http://tunestream.me:8080/thomas/thomas/22096
+#EXTINF:-1,VIP US: CBS Jacksonville
+http://tunestream.me:8080/thomas/thomas/22095
+#EXTINF:-1,VIP US: CBS Kansas City
+http://tunestream.me:8080/thomas/thomas/22094
+#EXTINF:-1,VIP US: CBS Los Angeles
+http://tunestream.me:8080/thomas/thomas/22093
+#EXTINF:-1,VIP US: CBS Miami
+http://tunestream.me:8080/thomas/thomas/22092
+#EXTINF:-1,VIP US: CBS Milwaukee
+http://tunestream.me:8080/thomas/thomas/22091
+#EXTINF:-1,VIP US: CBS Minneapolis
+http://tunestream.me:8080/thomas/thomas/22090
+#EXTINF:-1,VIP US: CBS Nashville
+http://tunestream.me:8080/thomas/thomas/22089
+#EXTINF:-1,VIP US: CBS New Orleans
+http://tunestream.me:8080/thomas/thomas/22088
+#EXTINF:-1,VIP US: CBS New York
+http://tunestream.me:8080/thomas/thomas/22087
+#EXTINF:-1,VIP US: CBS News
+http://tunestream.me:8080/thomas/thomas/10755
+#EXTINF:-1,VIP US: CBS Orlando
+http://tunestream.me:8080/thomas/thomas/22086
+#EXTINF:-1,VIP US: CBS Philadelphia
+http://tunestream.me:8080/thomas/thomas/22085
+#EXTINF:-1,VIP US: CBS Phoenix
+http://tunestream.me:8080/thomas/thomas/22084
+#EXTINF:-1,VIP US: CBS Pittsburgh
+http://tunestream.me:8080/thomas/thomas/22083
+#EXTINF:-1,VIP US: CBS POP
+http://tunestream.me:8080/thomas/thomas/22876
+#EXTINF:-1,VIP US: CBS Sacramento
+http://tunestream.me:8080/thomas/thomas/22082
+#EXTINF:-1,VIP US: CBS San Antonio
+http://tunestream.me:8080/thomas/thomas/22081
+#EXTINF:-1,VIP US: CBS San Diego
+http://tunestream.me:8080/thomas/thomas/22080
+#EXTINF:-1,VIP US: CBS San Francisco
+http://tunestream.me:8080/thomas/thomas/22079
+#EXTINF:-1,VIP US: CBS Seattle
+http://tunestream.me:8080/thomas/thomas/22078
+#EXTINF:-1,VIP US: CBS Sport Network HD
+http://tunestream.me:8080/thomas/thomas/8398
+#EXTINF:-1,VIP US: CBS St Louis
+http://tunestream.me:8080/thomas/thomas/22077
+#EXTINF:-1,VIP US: CBS Tampas
+http://tunestream.me:8080/thomas/thomas/22076
+#EXTINF:-1,VIP US: CBS Washington
+http://tunestream.me:8080/thomas/thomas/22075
+#EXTINF:-1,VIP US: CBSN News
+http://tunestream.me:8080/thomas/thomas/10717
+#EXTINF:-1,VIP US: CHEDDAR HD
+http://tunestream.me:8080/thomas/thomas/22854
+#EXTINF:-1,VIP US: Chiller TV
+http://tunestream.me:8080/thomas/thomas/15553
+#EXTINF:-1,VIP US: Cinema PPV 01
+http://tunestream.me:8080/thomas/thomas/34834
+#EXTINF:-1,VIP US: Cinema PPV 02
+http://tunestream.me:8080/thomas/thomas/34835
+#EXTINF:-1,VIP US: Cinema PPV 03
+http://tunestream.me:8080/thomas/thomas/34836
+#EXTINF:-1,VIP US: Cinema PPV 04
+http://tunestream.me:8080/thomas/thomas/34837
+#EXTINF:-1,VIP US: Cinema PPV 05
+http://tunestream.me:8080/thomas/thomas/34838
+#EXTINF:-1,VIP US: Cinema PPV 06
+http://tunestream.me:8080/thomas/thomas/34839
+#EXTINF:-1,VIP US: Cinema PPV 07
+http://tunestream.me:8080/thomas/thomas/34840
+#EXTINF:-1,VIP US: Cinema PPV 08
+http://tunestream.me:8080/thomas/thomas/34841
+#EXTINF:-1,VIP US: Cinema PPV 09
+http://tunestream.me:8080/thomas/thomas/34842
+#EXTINF:-1,VIP US: Cinema PPV 10
+http://tunestream.me:8080/thomas/thomas/34843
+#EXTINF:-1,VIP US: Cinema PPV 11
+http://tunestream.me:8080/thomas/thomas/34844
+#EXTINF:-1,VIP US: Cinema PPV 12
+http://tunestream.me:8080/thomas/thomas/34845
+#EXTINF:-1,VIP US: Cinema PPV 13
+http://tunestream.me:8080/thomas/thomas/34846
+#EXTINF:-1,VIP US: Cinema PPV 14
+http://tunestream.me:8080/thomas/thomas/34847
+#EXTINF:-1,VIP US: Cinema PPV 15
+http://tunestream.me:8080/thomas/thomas/34848
+#EXTINF:-1,VIP US: Cinema PPV 16
+http://tunestream.me:8080/thomas/thomas/34849
+#EXTINF:-1,VIP US: Cinema PPV 17
+http://tunestream.me:8080/thomas/thomas/34850
+#EXTINF:-1,VIP US: Cinema PPV 18
+http://tunestream.me:8080/thomas/thomas/34851
+#EXTINF:-1,VIP US: Cinema PPV 19
+http://tunestream.me:8080/thomas/thomas/34852
+#EXTINF:-1,VIP US: Cinema PPV 20
+http://tunestream.me:8080/thomas/thomas/34853
+#EXTINF:-1,VIP US: Cinema PPV 21
+http://tunestream.me:8080/thomas/thomas/34854
+#EXTINF:-1,VIP US: Cinema PPV 22
+http://tunestream.me:8080/thomas/thomas/34855
+#EXTINF:-1,VIP US: Cinema PPV 23
+http://tunestream.me:8080/thomas/thomas/34856
+#EXTINF:-1,VIP US: Cinema PPV 24
+http://tunestream.me:8080/thomas/thomas/34857
+#EXTINF:-1,VIP US: Cinema PPV 25
+http://tunestream.me:8080/thomas/thomas/34858
+#EXTINF:-1,VIP US: Cinema PPV 26
+http://tunestream.me:8080/thomas/thomas/34859
+#EXTINF:-1,VIP US: Cinema PPV 27
+http://tunestream.me:8080/thomas/thomas/34860
+#EXTINF:-1,VIP US: Cinema PPV 28
+http://tunestream.me:8080/thomas/thomas/34861
+#EXTINF:-1,VIP US: Cinema PPV 29
+http://tunestream.me:8080/thomas/thomas/34862
+#EXTINF:-1,VIP US: Cinema PPV 30
+http://tunestream.me:8080/thomas/thomas/34863
+#EXTINF:-1,VIP US: Cinema PPV 31
+http://tunestream.me:8080/thomas/thomas/34864
+#EXTINF:-1,VIP US: Cinema PPV 32
+http://tunestream.me:8080/thomas/thomas/34865
+#EXTINF:-1,VIP US: Cinema PPV 33
+http://tunestream.me:8080/thomas/thomas/34866
+#EXTINF:-1,VIP US: Cinema PPV 34
+http://tunestream.me:8080/thomas/thomas/34867
+#EXTINF:-1,VIP US: Cinema PPV 35
+http://tunestream.me:8080/thomas/thomas/34868
+#EXTINF:-1,VIP US: Cinema PPV 36
+http://tunestream.me:8080/thomas/thomas/34869
+#EXTINF:-1,VIP US: Cinema PPV 37
+http://tunestream.me:8080/thomas/thomas/34870
+#EXTINF:-1,VIP US: Cinema PPV 38
+http://tunestream.me:8080/thomas/thomas/34871
+#EXTINF:-1,VIP US: Cinema PPV 39
+http://tunestream.me:8080/thomas/thomas/34872
+#EXTINF:-1,VIP US: Cinema PPV 40
+http://tunestream.me:8080/thomas/thomas/34873
+#EXTINF:-1,VIP US: Cinema PPV 41
+http://tunestream.me:8080/thomas/thomas/34874
+#EXTINF:-1,VIP US: Cinemax 5 Max
+http://tunestream.me:8080/thomas/thomas/10677
+#EXTINF:-1,VIP US: Cinemax 5 Star Max
+http://tunestream.me:8080/thomas/thomas/10700
+#EXTINF:-1,VIP US: Cinemax ActionMax
+http://tunestream.me:8080/thomas/thomas/10720
+#EXTINF:-1,VIP US: Cinemax East
+http://tunestream.me:8080/thomas/thomas/10721
+#EXTINF:-1,VIP US: Cinemax Moremax
+http://tunestream.me:8080/thomas/thomas/10693
+#EXTINF:-1,VIP US: Cinemax Thrillermax
+http://tunestream.me:8080/thomas/thomas/30734
+#EXTINF:-1,VIP US: Cinemax West
+http://tunestream.me:8080/thomas/thomas/30735
+#EXTINF:-1,VIP US: CITY HD
+http://tunestream.me:8080/thomas/thomas/10722
+#EXTINF:-1,VIP US: CMT HD
+http://tunestream.me:8080/thomas/thomas/10718
+#EXTINF:-1,VIP US: CNBC HD
+http://tunestream.me:8080/thomas/thomas/10676
+#EXTINF:-1,VIP US: CNN HD
+http://tunestream.me:8080/thomas/thomas/10749
+#EXTINF:-1,VIP US: COMEDY CENTRAL
+http://tunestream.me:8080/thomas/thomas/10692
+#EXTINF:-1,VIP US: Cooking Channel
+http://tunestream.me:8080/thomas/thomas/22917
+#EXTINF:-1,VIP US: Country network
+http://tunestream.me:8080/thomas/thomas/22916
+#EXTINF:-1,VIP US: Court TV
+http://tunestream.me:8080/thomas/thomas/31435
+#EXTINF:-1,VIP US: Cowboy Channel
+http://tunestream.me:8080/thomas/thomas/22915
+#EXTINF:-1,VIP US: COZI Tv
+http://tunestream.me:8080/thomas/thomas/22919
+#EXTINF:-1,VIP US: Crime & Investigation HD
+http://tunestream.me:8080/thomas/thomas/10691
+#EXTINF:-1,VIP US: CW HD
+http://tunestream.me:8080/thomas/thomas/10748
+#EXTINF:-1,VIP US: DAYSTAR TV
+http://tunestream.me:8080/thomas/thomas/41467
+#EXTINF:-1,VIP US: Olympic Channel FHD
+http://tunestream.me:8080/thomas/thomas/22898
+#EXTINF:-1,VIP US: FOX DEPORTES HD
+http://tunestream.me:8080/thomas/thomas/10671
+#EXTINF:-1,VIP US: DISCOVERY CHANNEL HD
+http://tunestream.me:8080/thomas/thomas/10761
+#EXTINF:-1,VIP US: Discovery Family
+http://tunestream.me:8080/thomas/thomas/22914
+#EXTINF:-1,VIP US: Discovery ID HD
+http://tunestream.me:8080/thomas/thomas/22913
+#EXTINF:-1,VIP US: Discovery Life HD
+http://tunestream.me:8080/thomas/thomas/22912
+#EXTINF:-1,VIP US: Discovery Science HD
+http://tunestream.me:8080/thomas/thomas/15405
+#EXTINF:-1,VIP US: DISCOVERY VELOCITY HD
+http://tunestream.me:8080/thomas/thomas/10690
+#EXTINF:-1,VIP US: Disney HD
+http://tunestream.me:8080/thomas/thomas/22911
+#EXTINF:-1,VIP US: DISNEY JR HD
+http://tunestream.me:8080/thomas/thomas/10735
+#EXTINF:-1,VIP US: Disney XD HD
+http://tunestream.me:8080/thomas/thomas/22910
+#EXTINF:-1,VIP US: DIY HD
+http://tunestream.me:8080/thomas/thomas/22909
+#EXTINF:-1,VIP US: Youtoo America FHD
+http://tunestream.me:8080/thomas/thomas/22899
+#EXTINF:-1,VIP US: E! Network HD
+http://tunestream.me:8080/thomas/thomas/10689
+#EXTINF:-1,VIP US: EL Rey Network HD
+http://tunestream.me:8080/thomas/thomas/22918
+#EXTINF:-1,VIP US: Eleven Sports Network
+http://tunestream.me:8080/thomas/thomas/22877
+#EXTINF:-1,VIP US: EMPIRE CINEMA 007 HD
+http://tunestream.me:8080/thomas/thomas/40251
+#EXTINF:-1,VIP US: EMPIRE CINEMA @THEATRE
+http://tunestream.me:8080/thomas/thomas/40252
+#EXTINF:-1,VIP US: EMPIRE CINEMA ACTION FHD
+http://tunestream.me:8080/thomas/thomas/40253
+#EXTINF:-1,VIP US: EMPIRE CINEMA ADVENTURE FHD
+http://tunestream.me:8080/thomas/thomas/40254
+#EXTINF:-1,VIP US: EMPIRE CINEMA ANIMATION FHD
+http://tunestream.me:8080/thomas/thomas/40255
+#EXTINF:-1,VIP US: EMPIRE CINEMA BIOGRAPHY FHD
+http://tunestream.me:8080/thomas/thomas/40256
+#EXTINF:-1,VIP US: EMPIRE CINEMA COMEDY FHD
+http://tunestream.me:8080/thomas/thomas/40257
+#EXTINF:-1,VIP US: EMPIRE CINEMA COMICULT FHD
+http://tunestream.me:8080/thomas/thomas/40258
+#EXTINF:-1,VIP US: EMPIRE CINEMA DRAMA FHD
+http://tunestream.me:8080/thomas/thomas/40259
+#EXTINF:-1,VIP US: EMPIRE CINEMA FAMILY FHD
+http://tunestream.me:8080/thomas/thomas/40260
+#EXTINF:-1,VIP US: EMPIRE CINEMA FANTASY FHD
+http://tunestream.me:8080/thomas/thomas/40261
+#EXTINF:-1,VIP US: EMPIRE CINEMA HINDI FHD
+http://tunestream.me:8080/thomas/thomas/40262
+#EXTINF:-1,VIP US: EMPIRE CINEMA HORROR FHD
+http://tunestream.me:8080/thomas/thomas/40263
+#EXTINF:-1,VIP US: EMPIRE CINEMA MYTHOLOGY HD
+http://tunestream.me:8080/thomas/thomas/40264
+#EXTINF:-1,VIP US: EMPIRE CINEMA PREMIERE FHD
+http://tunestream.me:8080/thomas/thomas/40265
+#EXTINF:-1,VIP US: EMPIRE CINEMA RELIGION HD
+http://tunestream.me:8080/thomas/thomas/40266
+#EXTINF:-1,VIP US: EMPIRE CINEMA ROMANCE FHD
+http://tunestream.me:8080/thomas/thomas/40267
+#EXTINF:-1,VIP US: EMPIRE CINEMA SCI FI FHD
+http://tunestream.me:8080/thomas/thomas/40268
+#EXTINF:-1,VIP US: EMPIRE CINEMA THRILLER FHD
+http://tunestream.me:8080/thomas/thomas/40269
+#EXTINF:-1,VIP US: EMPIRE CINEMA WESTERN FHD
+http://tunestream.me:8080/thomas/thomas/40270
+#EXTINF:-1,VIP US: Epix
+http://tunestream.me:8080/thomas/thomas/22908
+#EXTINF:-1,VIP US: Epix Drive
+http://tunestream.me:8080/thomas/thomas/30733
+#EXTINF:-1,VIP US: Epix Hits
+http://tunestream.me:8080/thomas/thomas/22907
+#EXTINF:-1,VIP US: Escape
+http://tunestream.me:8080/thomas/thomas/22906
+#EXTINF:-1,VIP US: ESPN
+http://tunestream.me:8080/thomas/thomas/10774
+#EXTINF:-1,VIP US: ESPN 2 HD
+http://tunestream.me:8080/thomas/thomas/10773
+#EXTINF:-1,VIP US: ESPN Baseball Regionals
+http://tunestream.me:8080/thomas/thomas/10772
+#EXTINF:-1,VIP US: ESPN Classic HD
+http://tunestream.me:8080/thomas/thomas/26664
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 1 HD
+http://tunestream.me:8080/thomas/thomas/26663
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 2 HD
+http://tunestream.me:8080/thomas/thomas/26662
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 3 HD
+http://tunestream.me:8080/thomas/thomas/26661
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 4 HD
+http://tunestream.me:8080/thomas/thomas/26660
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 5 HD
+http://tunestream.me:8080/thomas/thomas/26659
+#EXTINF:-1,VIP US: ESPN COLLEGE EXTRA 6 HD
+http://tunestream.me:8080/thomas/thomas/26658
+#EXTINF:-1,VIP US: ESPN NEWS
+http://tunestream.me:8080/thomas/thomas/10771
+#EXTINF:-1,VIP US: ESPN PLUS 01 HD
+http://tunestream.me:8080/thomas/thomas/19308
+#EXTINF:-1,VIP US: ESPN PLUS 02 HD
+http://tunestream.me:8080/thomas/thomas/19307
+#EXTINF:-1,VIP US: ESPN PLUS 03 HD
+http://tunestream.me:8080/thomas/thomas/19306
+#EXTINF:-1,VIP US: ESPN PLUS 04 HD
+http://tunestream.me:8080/thomas/thomas/19305
+#EXTINF:-1,VIP US: ESPN PLUS 05 HD
+http://tunestream.me:8080/thomas/thomas/19304
+#EXTINF:-1,VIP US: ESPN PLUS 06 HD
+http://tunestream.me:8080/thomas/thomas/19303
+#EXTINF:-1,VIP US: ESPN PLUS 07 HD
+http://tunestream.me:8080/thomas/thomas/19302
+#EXTINF:-1,VIP US: ESPN PLUS 08 HD
+http://tunestream.me:8080/thomas/thomas/19301
+#EXTINF:-1,VIP US: ESPN PLUS 09 HD
+http://tunestream.me:8080/thomas/thomas/19300
+#EXTINF:-1,VIP US: ESPN PLUS 10 HD
+http://tunestream.me:8080/thomas/thomas/19299
+#EXTINF:-1,VIP US: ESPN PLUS 11 HD
+http://tunestream.me:8080/thomas/thomas/19298
+#EXTINF:-1,VIP US: ESPN PLUS 12 HD
+http://tunestream.me:8080/thomas/thomas/19297
+#EXTINF:-1,VIP US: ESPN PLUS 13 HD
+http://tunestream.me:8080/thomas/thomas/19296
+#EXTINF:-1,VIP US: ESPN PLUS 14 HD
+http://tunestream.me:8080/thomas/thomas/19295
+#EXTINF:-1,VIP US: ESPN PLUS 15 HD
+http://tunestream.me:8080/thomas/thomas/19294
+#EXTINF:-1,VIP US: ESPN PLUS 16 HD
+http://tunestream.me:8080/thomas/thomas/19293
+#EXTINF:-1,VIP US: ESPN PLUS 17 HD
+http://tunestream.me:8080/thomas/thomas/19292
+#EXTINF:-1,VIP US: ESPN PLUS 18 HD
+http://tunestream.me:8080/thomas/thomas/19291
+#EXTINF:-1,VIP US: ESPN PLUS 19 HD
+http://tunestream.me:8080/thomas/thomas/19290
+#EXTINF:-1,VIP US: ESPN PLUS 20 HD
+http://tunestream.me:8080/thomas/thomas/19289
+#EXTINF:-1,VIP US: ESPN U HD
+http://tunestream.me:8080/thomas/thomas/26665
+#EXTINF:-1,VIP US: ET LIVE HD
+http://tunestream.me:8080/thomas/thomas/22897
+#EXTINF:-1,VIP US: EWTN
+http://tunestream.me:8080/thomas/thomas/41468
+#EXTINF:-1,VIP US: Fight Network / MMA Network
+http://tunestream.me:8080/thomas/thomas/10738
+#EXTINF:-1,VIP US: Fight Sport
+http://tunestream.me:8080/thomas/thomas/10726
+#EXTINF:-1,VIP US: FOOD NETWORK
+http://tunestream.me:8080/thomas/thomas/10688
+#EXTINF:-1,VIP US: FOX Atlanta
+http://tunestream.me:8080/thomas/thomas/22030
+#EXTINF:-1,VIP US: FOX Austin
+http://tunestream.me:8080/thomas/thomas/22029
+#EXTINF:-1,VIP US: FOX Baltimore
+http://tunestream.me:8080/thomas/thomas/22028
+#EXTINF:-1,VIP US: FOX Belmont
+http://tunestream.me:8080/thomas/thomas/22027
+#EXTINF:-1,VIP US: FOX Boston
+http://tunestream.me:8080/thomas/thomas/22026
+#EXTINF:-1,VIP US: FOX Buffalo
+http://tunestream.me:8080/thomas/thomas/22025
+#EXTINF:-1,VIP US: Fox Bussines Network
+http://tunestream.me:8080/thomas/thomas/22024
+#EXTINF:-1,VIP US: FOX Chicago
+http://tunestream.me:8080/thomas/thomas/22023
+#EXTINF:-1,VIP US: FOX Cleveland
+http://tunestream.me:8080/thomas/thomas/22022
+#EXTINF:-1,VIP US: Fox Collage Sports Atlantic
+http://tunestream.me:8080/thomas/thomas/22021
+#EXTINF:-1,VIP US: Fox Collage Sports Central
+http://tunestream.me:8080/thomas/thomas/22020
+#EXTINF:-1,VIP US: Fox Collage Sports Pacific
+http://tunestream.me:8080/thomas/thomas/22019
+#EXTINF:-1,VIP US: FOX Columbus
+http://tunestream.me:8080/thomas/thomas/22018
+#EXTINF:-1,VIP US: FOX Dallas
+http://tunestream.me:8080/thomas/thomas/22017
+#EXTINF:-1,VIP US: FOX Denver
+http://tunestream.me:8080/thomas/thomas/22016
+#EXTINF:-1,VIP US: FOX Deportes HD
+http://tunestream.me:8080/thomas/thomas/22015
+#EXTINF:-1,VIP US: FOX Detroit
+http://tunestream.me:8080/thomas/thomas/22014
+#EXTINF:-1,VIP US: FOX Green Bay
+http://tunestream.me:8080/thomas/thomas/22013
+#EXTINF:-1,VIP US: FOX Hartford
+http://tunestream.me:8080/thomas/thomas/22012
+#EXTINF:-1,VIP US: FOX Houston
+http://tunestream.me:8080/thomas/thomas/22011
+#EXTINF:-1,VIP US: FOX Indianapolis
+http://tunestream.me:8080/thomas/thomas/22010
+#EXTINF:-1,VIP US: FOX Jacksonville
+http://tunestream.me:8080/thomas/thomas/22009
+#EXTINF:-1,VIP US: FOX Kansas City
+http://tunestream.me:8080/thomas/thomas/22008
+#EXTINF:-1,VIP US: FOX Los Angeles
+http://tunestream.me:8080/thomas/thomas/22007
+#EXTINF:-1,VIP US: FOX Miami
+http://tunestream.me:8080/thomas/thomas/22006
+#EXTINF:-1,VIP US: FOX Milwaukee
+http://tunestream.me:8080/thomas/thomas/22005
+#EXTINF:-1,VIP US: FOX Minneapolis
+http://tunestream.me:8080/thomas/thomas/22004
+#EXTINF:-1,VIP US: FOX Nashville
+http://tunestream.me:8080/thomas/thomas/22003
+#EXTINF:-1,VIP US: FOX New Orleans
+http://tunestream.me:8080/thomas/thomas/22002
+#EXTINF:-1,VIP US: FOX New York
+http://tunestream.me:8080/thomas/thomas/22001
+#EXTINF:-1,VIP US: Fox News
+http://tunestream.me:8080/thomas/thomas/10727
+#EXTINF:-1,VIP US: Fox News Channel
+http://tunestream.me:8080/thomas/thomas/22000
+#EXTINF:-1,VIP US: FOX Ocala
+http://tunestream.me:8080/thomas/thomas/21999
+#EXTINF:-1,VIP US: FOX Orlando
+http://tunestream.me:8080/thomas/thomas/21998
+#EXTINF:-1,VIP US: FOX Philadelphia
+http://tunestream.me:8080/thomas/thomas/21997
+#EXTINF:-1,VIP US: FOX Phoenix
+http://tunestream.me:8080/thomas/thomas/21996
+#EXTINF:-1,VIP US: FOX Pittsburgh
+http://tunestream.me:8080/thomas/thomas/21995
+#EXTINF:-1,VIP US: FOX Sacramento
+http://tunestream.me:8080/thomas/thomas/21994
+#EXTINF:-1,VIP US: FOX Salt Lake City
+http://tunestream.me:8080/thomas/thomas/21993
+#EXTINF:-1,VIP US: FOX San Antonio
+http://tunestream.me:8080/thomas/thomas/21992
+#EXTINF:-1,VIP US: FOX San Diego
+http://tunestream.me:8080/thomas/thomas/21991
+#EXTINF:-1,VIP US: FOX San Francisco
+http://tunestream.me:8080/thomas/thomas/21990
+#EXTINF:-1,VIP US: FOX Seattle
+http://tunestream.me:8080/thomas/thomas/21989
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 01
+http://tunestream.me:8080/thomas/thomas/34730
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 02
+http://tunestream.me:8080/thomas/thomas/34731
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 03
+http://tunestream.me:8080/thomas/thomas/34732
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 04
+http://tunestream.me:8080/thomas/thomas/34733
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 05
+http://tunestream.me:8080/thomas/thomas/34736
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 06
+http://tunestream.me:8080/thomas/thomas/34734
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 07
+http://tunestream.me:8080/thomas/thomas/34735
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 08
+http://tunestream.me:8080/thomas/thomas/34737
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 09
+http://tunestream.me:8080/thomas/thomas/34738
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 10
+http://tunestream.me:8080/thomas/thomas/34739
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 11
+http://tunestream.me:8080/thomas/thomas/34740
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 12
+http://tunestream.me:8080/thomas/thomas/34744
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 13
+http://tunestream.me:8080/thomas/thomas/34741
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 14
+http://tunestream.me:8080/thomas/thomas/34742
+#EXTINF:-1,VIP US: Fox Soccer Match Pass 15
+http://tunestream.me:8080/thomas/thomas/34743
+#EXTINF:-1,VIP US: Fox Soccer Plus HD
+http://tunestream.me:8080/thomas/thomas/12568
+#EXTINF:-1,VIP US: FOX SOCCER SUN HD
+http://tunestream.me:8080/thomas/thomas/10670
+#EXTINF:-1,VIP US: Bally Sports Arizona HD
+http://tunestream.me:8080/thomas/thomas/25868
+#EXTINF:-1,VIP US: Bally Sports Carolina HD
+http://tunestream.me:8080/thomas/thomas/38077
+#EXTINF:-1,VIP US: Bally Sports College Atlantic HD
+http://tunestream.me:8080/thomas/thomas/25867
+#EXTINF:-1,VIP US: Bally Sports Detroit
+http://tunestream.me:8080/thomas/thomas/10650
+#EXTINF:-1,VIP US: Bally Sports Detroit HD
+http://tunestream.me:8080/thomas/thomas/25875
+#EXTINF:-1,VIP US: Bally Sports Florida HD
+http://tunestream.me:8080/thomas/thomas/25874
+#EXTINF:-1,VIP US: Bally Sports Indianna HD
+http://tunestream.me:8080/thomas/thomas/25877
+#EXTINF:-1,VIP US: Bally Sports Kannas CityHD
+http://tunestream.me:8080/thomas/thomas/25876
+#EXTINF:-1,VIP US: Bally Sports Mid West HD
+http://tunestream.me:8080/thomas/thomas/25865
+#EXTINF:-1,VIP US: Bally Sports North HD
+http://tunestream.me:8080/thomas/thomas/25873
+#EXTINF:-1,VIP US: Bally Sports Ohio HD
+http://tunestream.me:8080/thomas/thomas/25864
+#EXTINF:-1,VIP US: Bally Sports Oklahoma HD
+http://tunestream.me:8080/thomas/thomas/25859
+#EXTINF:-1,VIP US: FOX SPORTS ONE
+http://tunestream.me:8080/thomas/thomas/10769
+#EXTINF:-1,VIP US: Bally Sports San Diego HD
+http://tunestream.me:8080/thomas/thomas/25871
+#EXTINF:-1,VIP US: Bally Sports South East HD
+http://tunestream.me:8080/thomas/thomas/25863
+#EXTINF:-1,VIP US: Bally Sports South HD
+http://tunestream.me:8080/thomas/thomas/25872
+#EXTINF:-1,VIP US: Bally Sports South West HD
+http://tunestream.me:8080/thomas/thomas/25913
+#EXTINF:-1,VIP US: Bally Sports Sun HD
+http://tunestream.me:8080/thomas/thomas/25862
+#EXTINF:-1,VIP US: Bally Sports Tennessee HD
+http://tunestream.me:8080/thomas/thomas/25860
+#EXTINF:-1,VIP US: FOX SPORTS TWO HD
+http://tunestream.me:8080/thomas/thomas/10716
+#EXTINF:-1,VIP US: Bally Sports West HD
+http://tunestream.me:8080/thomas/thomas/25861
+#EXTINF:-1,VIP US: Bally Sports West Prime Ticket HD
+http://tunestream.me:8080/thomas/thomas/25866
+#EXTINF:-1,VIP US: Bally Sports Wisconsin HD
+http://tunestream.me:8080/thomas/thomas/25870
+#EXTINF:-1,VIP US: FOX St Louis
+http://tunestream.me:8080/thomas/thomas/21988
+#EXTINF:-1,VIP US: FOX Tampa
+http://tunestream.me:8080/thomas/thomas/21987
+#EXTINF:-1,VIP US: FOX Washington
+http://tunestream.me:8080/thomas/thomas/21986
+#EXTINF:-1,VIP US: Fubo Sports Network HD
+http://tunestream.me:8080/thomas/thomas/40250
+#EXTINF:-1,VIP US: Fuse
+http://tunestream.me:8080/thomas/thomas/22902
+#EXTINF:-1,VIP US: Fusion
+http://tunestream.me:8080/thomas/thomas/22901
+#EXTINF:-1,VIP US: FUTV FHD
+http://tunestream.me:8080/thomas/thomas/22896
+#EXTINF:-1,VIP US: FX HD
+http://tunestream.me:8080/thomas/thomas/10728
+#EXTINF:-1,VIP US: FX Movie
+http://tunestream.me:8080/thomas/thomas/22905
+#EXTINF:-1,VIP US: FXX
+http://tunestream.me:8080/thomas/thomas/22904
+#EXTINF:-1,VIP US: FYI
+http://tunestream.me:8080/thomas/thomas/22903
+#EXTINF:-1,VIP US: GOL TV HD
+http://tunestream.me:8080/thomas/thomas/23200
+#EXTINF:-1,VIP US: Grit
+http://tunestream.me:8080/thomas/thomas/22900
+#EXTINF:-1,VIP US: GSN TV
+http://tunestream.me:8080/thomas/thomas/10675
+#EXTINF:-1,VIP US: Hallmark Drama
+http://tunestream.me:8080/thomas/thomas/22885
+#EXTINF:-1,VIP US: HALLMARK HD
+http://tunestream.me:8080/thomas/thomas/10730
+#EXTINF:-1,VIP US: Hallmark Movies & Mysteries
+http://tunestream.me:8080/thomas/thomas/22884
+#EXTINF:-1,VIP US: HBO COMEDY HD
+http://tunestream.me:8080/thomas/thomas/10731
+#EXTINF:-1,VIP US: HBO Family HD
+http://tunestream.me:8080/thomas/thomas/10674
+#EXTINF:-1,VIP US: HBO HD
+http://tunestream.me:8080/thomas/thomas/10732
+#EXTINF:-1,VIP US: HBO SIGNATURE
+http://tunestream.me:8080/thomas/thomas/10733
+#EXTINF:-1,VIP US: HBO ZONE
+http://tunestream.me:8080/thomas/thomas/10734
+#EXTINF:-1,VIP US: Headline News
+http://tunestream.me:8080/thomas/thomas/22882
+#EXTINF:-1,VIP US: HEART TV
+http://tunestream.me:8080/thomas/thomas/10713
+#EXTINF:-1,VIP US: Heroes Channel HD
+http://tunestream.me:8080/thomas/thomas/22895
+#EXTINF:-1,VIP US: HGTV HD
+http://tunestream.me:8080/thomas/thomas/10668
+#EXTINF:-1,VIP US: HISTORY HD
+http://tunestream.me:8080/thomas/thomas/10762
+#EXTINF:-1,VIP US: IFC HD
+http://tunestream.me:8080/thomas/thomas/22887
+#EXTINF:-1,VIP US: Independent Film Channel
+http://tunestream.me:8080/thomas/thomas/22878
+#EXTINF:-1,VIP US: ION TV
+http://tunestream.me:8080/thomas/thomas/22879
+#EXTINF:-1,VIP US: Young Hollywood HD
+http://tunestream.me:8080/thomas/thomas/22894
+#EXTINF:-1,VIP US: KIDS READING TV
+http://tunestream.me:8080/thomas/thomas/10646
+#EXTINF:-1,VIP US: LIFE TIME
+http://tunestream.me:8080/thomas/thomas/10736
+#EXTINF:-1,VIP US: LIFETIME HD
+http://tunestream.me:8080/thomas/thomas/10715
+#EXTINF:-1,VIP US: LIVE NBA 1
+http://tunestream.me:8080/thomas/thomas/10944
+#EXTINF:-1,VIP US: LIVE NBA 1 HD
+http://tunestream.me:8080/thomas/thomas/10945
+#EXTINF:-1,VIP US: LMN HDTV
+http://tunestream.me:8080/thomas/thomas/10666
+#EXTINF:-1,VIP US: Longhorn Network HD
+http://tunestream.me:8080/thomas/thomas/22886
+#EXTINF:-1,VIP US: MAV HD
+http://tunestream.me:8080/thomas/thomas/22888
+#EXTINF:-1,VIP US: ME Tv
+http://tunestream.me:8080/thomas/thomas/22875
+#EXTINF:-1,VIP US: MLB Extra Innings 721 HD US
+http://tunestream.me:8080/thomas/thomas/19288
+#EXTINF:-1,VIP US: MLB Extra Innings 722 HD US
+http://tunestream.me:8080/thomas/thomas/19287
+#EXTINF:-1,VIP US: MLB Extra Innings 723 HD US
+http://tunestream.me:8080/thomas/thomas/19286
+#EXTINF:-1,VIP US: MLB Extra Innings 724 HD US
+http://tunestream.me:8080/thomas/thomas/19285
+#EXTINF:-1,VIP US: MLB Extra Innings 725 HD US
+http://tunestream.me:8080/thomas/thomas/19284
+#EXTINF:-1,VIP US: MLB Extra Innings 726 HD US
+http://tunestream.me:8080/thomas/thomas/19283
+#EXTINF:-1,VIP US: MLB Extra Innings 727 HD US
+http://tunestream.me:8080/thomas/thomas/19282
+#EXTINF:-1,VIP US: MLB Extra Innings 728 HD US
+http://tunestream.me:8080/thomas/thomas/19281
+#EXTINF:-1,VIP US: MLB Extra Innings 729 HD US
+http://tunestream.me:8080/thomas/thomas/19280
+#EXTINF:-1,VIP US: MLB Extra Innings 730 HD US
+http://tunestream.me:8080/thomas/thomas/19279
+#EXTINF:-1,VIP US: MLB Extra Innings 731 HD US
+http://tunestream.me:8080/thomas/thomas/19278
+#EXTINF:-1,VIP US: MLB Extra Innings 732 HD US
+http://tunestream.me:8080/thomas/thomas/19277
+#EXTINF:-1,VIP US: MLB Extra Innings 733 HD US
+http://tunestream.me:8080/thomas/thomas/19276
+#EXTINF:-1,VIP US: MLB Extra Innings 734 HD US
+http://tunestream.me:8080/thomas/thomas/19275
+#EXTINF:-1,VIP US: MLB Extra Innings 735 HD US
+http://tunestream.me:8080/thomas/thomas/19274
+#EXTINF:-1,VIP US: MLB Extra Innings 736 HD US
+http://tunestream.me:8080/thomas/thomas/19273
+#EXTINF:-1,VIP US: MLB Extra Innings 737 HD US
+http://tunestream.me:8080/thomas/thomas/19272
+#EXTINF:-1,VIP US: MLB Extra Innings 738 HD US
+http://tunestream.me:8080/thomas/thomas/19271
+#EXTINF:-1,VIP US: MLB Extra Innings 739 HD US
+http://tunestream.me:8080/thomas/thomas/19270
+#EXTINF:-1,VIP US: MLB Extra Innings 740 HD US
+http://tunestream.me:8080/thomas/thomas/19269
+#EXTINF:-1,VIP US: MLB Extra Innings 741 HD US
+http://tunestream.me:8080/thomas/thomas/19268
+#EXTINF:-1,VIP US: MLB Extra Innings 742 HD US
+http://tunestream.me:8080/thomas/thomas/19267
+#EXTINF:-1,VIP US: MLB Extra Innings 743 HD US
+http://tunestream.me:8080/thomas/thomas/19266
+#EXTINF:-1,VIP US: MLB Extra Innings 744 HD US
+http://tunestream.me:8080/thomas/thomas/19265
+#EXTINF:-1,VIP US: MLB Extra Innings 745 HD US
+http://tunestream.me:8080/thomas/thomas/19264
+#EXTINF:-1,VIP US: MLB Extra Innings 746 HD US
+http://tunestream.me:8080/thomas/thomas/19263
+#EXTINF:-1,VIP US: MLB Extra Innings 747 HD US
+http://tunestream.me:8080/thomas/thomas/19262
+#EXTINF:-1,VIP US: MLB Extra Innings 748 HD US
+http://tunestream.me:8080/thomas/thomas/19261
+#EXTINF:-1,VIP US: MLB Extra Innings 749 HD US
+http://tunestream.me:8080/thomas/thomas/19260
+#EXTINF:-1,VIP US: MLB HD
+http://tunestream.me:8080/thomas/thomas/10737
+#EXTINF:-1,VIP US: Moviemax HD
+http://tunestream.me:8080/thomas/thomas/30736
+#EXTINF:-1,VIP US: MSG 2 HD
+http://tunestream.me:8080/thomas/thomas/25858
+#EXTINF:-1,VIP US: MSG HD
+http://tunestream.me:8080/thomas/thomas/21705
+#EXTINF:-1,VIP US: MSG Plus
+http://tunestream.me:8080/thomas/thomas/21706
+#EXTINF:-1,VIP US: MSG Plus HD
+http://tunestream.me:8080/thomas/thomas/25857
+#EXTINF:-1,VIP US: MSNBC HD
+http://tunestream.me:8080/thomas/thomas/10669
+#EXTINF:-1,VIP US: MTV HD
+http://tunestream.me:8080/thomas/thomas/10757
+#EXTINF:-1,VIP US: MTV LIVE HD
+http://tunestream.me:8080/thomas/thomas/10760
+#EXTINF:-1,VIP US: My Jam TV HD
+http://tunestream.me:8080/thomas/thomas/22893
+#EXTINF:-1,VIP US: MY9 TV
+http://tunestream.me:8080/thomas/thomas/10665
+#EXTINF:-1,VIP US: NASA TV HD
+http://tunestream.me:8080/thomas/thomas/10649
+#EXTINF:-1,VIP US: NAT GEO HD
+http://tunestream.me:8080/thomas/thomas/10759
+#EXTINF:-1,VIP US: Nat Geo Wild HD
+http://tunestream.me:8080/thomas/thomas/22874
+#EXTINF:-1,VIP US: NBA League Pass Live 750 HD US
+http://tunestream.me:8080/thomas/thomas/19259
+#EXTINF:-1,VIP US: NBA League Pass Live 751 HD US
+http://tunestream.me:8080/thomas/thomas/19258
+#EXTINF:-1,VIP US: NBA League Pass Live 752 HD US
+http://tunestream.me:8080/thomas/thomas/19257
+#EXTINF:-1,VIP US: NBA League Pass Live 753 HD US
+http://tunestream.me:8080/thomas/thomas/19256
+#EXTINF:-1,VIP US: NBA League Pass Live 754 HD US
+http://tunestream.me:8080/thomas/thomas/19255
+#EXTINF:-1,VIP US: NBA League Pass Live 755 HD US
+http://tunestream.me:8080/thomas/thomas/19254
+#EXTINF:-1,VIP US: NBA League Pass Live 756 HD US
+http://tunestream.me:8080/thomas/thomas/19253
+#EXTINF:-1,VIP US: NBA League Pass Live 757 HD US
+http://tunestream.me:8080/thomas/thomas/19252
+#EXTINF:-1,VIP US: NBA League Pass Live 758 HD US
+http://tunestream.me:8080/thomas/thomas/19251
+#EXTINF:-1,VIP US: NBA League Pass Live 759 HD US
+http://tunestream.me:8080/thomas/thomas/19250
+#EXTINF:-1,VIP US: NBA League Pass Live 760 HD US
+http://tunestream.me:8080/thomas/thomas/19249
+#EXTINF:-1,VIP US: NBA League Pass Live 761 HD US
+http://tunestream.me:8080/thomas/thomas/19248
+#EXTINF:-1,VIP US: NBA League Pass Live 762 HD US
+http://tunestream.me:8080/thomas/thomas/19247
+#EXTINF:-1,VIP US: NBA League Pass Live 763 HD US
+http://tunestream.me:8080/thomas/thomas/19246
+#EXTINF:-1,VIP US: NBA League Pass Live 764 HD US
+http://tunestream.me:8080/thomas/thomas/19245
+#EXTINF:-1,VIP US: NBA League Pass Live 765 HD US
+http://tunestream.me:8080/thomas/thomas/19244
+#EXTINF:-1,VIP US: NBA League Pass Live 766 HD US
+http://tunestream.me:8080/thomas/thomas/19243
+#EXTINF:-1,VIP US: NBA League Pass Live 767 HD US
+http://tunestream.me:8080/thomas/thomas/19242
+#EXTINF:-1,VIP US: NBA League Pass Live 768 HD US
+http://tunestream.me:8080/thomas/thomas/19241
+#EXTINF:-1,VIP US: NBA League Pass Live 769 HD US
+http://tunestream.me:8080/thomas/thomas/19240
+#EXTINF:-1,VIP US: NBA TV
+http://tunestream.me:8080/thomas/thomas/10729
+#EXTINF:-1,VIP US: NBC Atlanta
+http://tunestream.me:8080/thomas/thomas/22074
+#EXTINF:-1,VIP US: NBC Baltimore
+http://tunestream.me:8080/thomas/thomas/22073
+#EXTINF:-1,VIP US: NBC Boston
+http://tunestream.me:8080/thomas/thomas/22072
+#EXTINF:-1,VIP US: NBC Buffalo
+http://tunestream.me:8080/thomas/thomas/22071
+#EXTINF:-1,VIP US: NBC Charlotte
+http://tunestream.me:8080/thomas/thomas/22070
+#EXTINF:-1,VIP US: NBC Chicago
+http://tunestream.me:8080/thomas/thomas/22069
+#EXTINF:-1,VIP US: NBC Cincinnati
+http://tunestream.me:8080/thomas/thomas/22068
+#EXTINF:-1,VIP US: NBC Cleveland
+http://tunestream.me:8080/thomas/thomas/22067
+#EXTINF:-1,VIP US: NBC Dallas
+http://tunestream.me:8080/thomas/thomas/22066
+#EXTINF:-1,VIP US: NBC Denver
+http://tunestream.me:8080/thomas/thomas/22065
+#EXTINF:-1,VIP US: NBC Detroit
+http://tunestream.me:8080/thomas/thomas/22064
+#EXTINF:-1,VIP US: NBC Gold PL 10HD
+http://tunestream.me:8080/thomas/thomas/17861
+#EXTINF:-1,VIP US: NBC Gold PL 1HD
+http://tunestream.me:8080/thomas/thomas/15783
+#EXTINF:-1,VIP US: NBC Gold PL 2HD
+http://tunestream.me:8080/thomas/thomas/15785
+#EXTINF:-1,VIP US: NBC Gold PL 3HD
+http://tunestream.me:8080/thomas/thomas/15786
+#EXTINF:-1,VIP US: NBC Gold PL 4HD
+http://tunestream.me:8080/thomas/thomas/15787
+#EXTINF:-1,VIP US: NBC Gold PL 5HD
+http://tunestream.me:8080/thomas/thomas/15788
+#EXTINF:-1,VIP US: NBC Gold PL 6HD
+http://tunestream.me:8080/thomas/thomas/15789
+#EXTINF:-1,VIP US: NBC Gold PL 7HD
+http://tunestream.me:8080/thomas/thomas/17858
+#EXTINF:-1,VIP US: NBC Gold PL 8HD
+http://tunestream.me:8080/thomas/thomas/17859
+#EXTINF:-1,VIP US: NBC Gold PL 9HD
+http://tunestream.me:8080/thomas/thomas/17860
+#EXTINF:-1,VIP US: NBC GOLF
+http://tunestream.me:8080/thomas/thomas/10687
+#EXTINF:-1,VIP US: NBC Green Bay
+http://tunestream.me:8080/thomas/thomas/22063
+#EXTINF:-1,VIP US: NBC Hartford
+http://tunestream.me:8080/thomas/thomas/22062
+#EXTINF:-1,VIP US: NBC HD
+http://tunestream.me:8080/thomas/thomas/9917
+#EXTINF:-1,VIP US: NBC Houston
+http://tunestream.me:8080/thomas/thomas/22061
+#EXTINF:-1,VIP US: NBC Indianapolis
+http://tunestream.me:8080/thomas/thomas/22060
+#EXTINF:-1,VIP US: NBC Jacksonville
+http://tunestream.me:8080/thomas/thomas/22059
+#EXTINF:-1,VIP US: NBC Kansas City
+http://tunestream.me:8080/thomas/thomas/22058
+#EXTINF:-1,VIP US: NBC Los Angeles
+http://tunestream.me:8080/thomas/thomas/22057
+#EXTINF:-1,VIP US: NBC Miami
+http://tunestream.me:8080/thomas/thomas/22056
+#EXTINF:-1,VIP US: NBC Milwaukee
+http://tunestream.me:8080/thomas/thomas/22055
+#EXTINF:-1,VIP US: NBC Minneapolis
+http://tunestream.me:8080/thomas/thomas/22054
+#EXTINF:-1,VIP US: NBC Nashville
+http://tunestream.me:8080/thomas/thomas/22053
+#EXTINF:-1,VIP US: NBC New Orleans
+http://tunestream.me:8080/thomas/thomas/22052
+#EXTINF:-1,VIP US: NBC New York
+http://tunestream.me:8080/thomas/thomas/22051
+#EXTINF:-1,VIP US: NBC Orlando
+http://tunestream.me:8080/thomas/thomas/22050
+#EXTINF:-1,VIP US: NBC Philadelphia
+http://tunestream.me:8080/thomas/thomas/22049
+#EXTINF:-1,VIP US: NBC Phoenix
+http://tunestream.me:8080/thomas/thomas/22048
+#EXTINF:-1,VIP US: NBC Pittsburgh
+http://tunestream.me:8080/thomas/thomas/22047
+#EXTINF:-1,VIP US: NBC Portland
+http://tunestream.me:8080/thomas/thomas/22046
+#EXTINF:-1,VIP US: NBC Raleigh
+http://tunestream.me:8080/thomas/thomas/22045
+#EXTINF:-1,VIP US: NBC Sacramento
+http://tunestream.me:8080/thomas/thomas/22044
+#EXTINF:-1,VIP US: NBC Salt Lake City
+http://tunestream.me:8080/thomas/thomas/22043
+#EXTINF:-1,VIP US: NBC San Diego
+http://tunestream.me:8080/thomas/thomas/22042
+#EXTINF:-1,VIP US: NBC San Francisco
+http://tunestream.me:8080/thomas/thomas/22041
+#EXTINF:-1,VIP US: NBC Seattle
+http://tunestream.me:8080/thomas/thomas/22040
+#EXTINF:-1,VIP US: NBC Sports Bay Area
+http://tunestream.me:8080/thomas/thomas/22039
+#EXTINF:-1,VIP US: NBC St Louis
+http://tunestream.me:8080/thomas/thomas/22038
+#EXTINF:-1,VIP US: NBC Telemundo
+http://tunestream.me:8080/thomas/thomas/22037
+#EXTINF:-1,VIP US: NBC Washington
+http://tunestream.me:8080/thomas/thomas/22036
+#EXTINF:-1,VIP US: NBCSN BAY AREA HD
+http://tunestream.me:8080/thomas/thomas/25855
+#EXTINF:-1,VIP US: NBCSN BOSTON HD
+http://tunestream.me:8080/thomas/thomas/34677
+#EXTINF:-1,VIP US: NBCSN CALIFORNIA HD
+http://tunestream.me:8080/thomas/thomas/25856
+#EXTINF:-1,VIP US: NBCSN CHICAGO HD
+http://tunestream.me:8080/thomas/thomas/25854
+#EXTINF:-1,VIP US: NBCSN Gold HD
+http://tunestream.me:8080/thomas/thomas/15529
+#EXTINF:-1,VIP US: NBCSN HD
+http://tunestream.me:8080/thomas/thomas/7685
+#EXTINF:-1,VIP US: NBCSN NORTHWEST HD
+http://tunestream.me:8080/thomas/thomas/23805
+#EXTINF:-1,VIP US: NBCSN PHILADELPHIA HD
+http://tunestream.me:8080/thomas/thomas/23806
+#EXTINF:-1,VIP US: NBCSN WASHINGTON HD
+http://tunestream.me:8080/thomas/thomas/23807
+#EXTINF:-1,VIP US: NESN 2
+http://tunestream.me:8080/thomas/thomas/22035
+#EXTINF:-1,VIP US: NESN HD
+http://tunestream.me:8080/thomas/thomas/16367
+#EXTINF:-1,VIP US: NESN Plus
+http://tunestream.me:8080/thomas/thomas/22034
+#EXTINF:-1,VIP US: News 12 Bronx (NYC)
+http://tunestream.me:8080/thomas/thomas/10708
+#EXTINF:-1,VIP US: News 12 Brooklyn (NYC)
+http://tunestream.me:8080/thomas/thomas/10707
+#EXTINF:-1,VIP US: News 12 Hudsson
+http://tunestream.me:8080/thomas/thomas/10706
+#EXTINF:-1,VIP US: News 12 Long Island
+http://tunestream.me:8080/thomas/thomas/10705
+#EXTINF:-1,VIP US: News 12 New Jersey
+http://tunestream.me:8080/thomas/thomas/10704
+#EXTINF:-1,VIP US: News 12 New Jersey (Weather Live)
+http://tunestream.me:8080/thomas/thomas/10703
+#EXTINF:-1,VIP US: NFL Network HD
+http://tunestream.me:8080/thomas/thomas/10776
+#EXTINF:-1,VIP US: NFL Now
+http://tunestream.me:8080/thomas/thomas/10777
+#EXTINF:-1,VIP US: NFL RedZone (Live on GameDay)
+http://tunestream.me:8080/thomas/thomas/10775
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 705 US
+http://tunestream.me:8080/thomas/thomas/19239
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 706 US
+http://tunestream.me:8080/thomas/thomas/19238
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 707 US
+http://tunestream.me:8080/thomas/thomas/19237
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 708 US
+http://tunestream.me:8080/thomas/thomas/19236
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 709 US
+http://tunestream.me:8080/thomas/thomas/19235
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 710 US
+http://tunestream.me:8080/thomas/thomas/19234
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 711 US
+http://tunestream.me:8080/thomas/thomas/19233
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 712 US
+http://tunestream.me:8080/thomas/thomas/19232
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 713 US
+http://tunestream.me:8080/thomas/thomas/19231
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 714 US
+http://tunestream.me:8080/thomas/thomas/19230
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 715 US
+http://tunestream.me:8080/thomas/thomas/19229
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 716 US
+http://tunestream.me:8080/thomas/thomas/19228
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 717 US
+http://tunestream.me:8080/thomas/thomas/19227
+#EXTINF:-1,VIP US: NHL Ice Center Pass 1 FHD
+http://tunestream.me:8080/thomas/thomas/66383
+#EXTINF:-1,VIP US: NHL Ice Center Pass 2 FHD
+http://tunestream.me:8080/thomas/thomas/66384
+#EXTINF:-1,VIP US: NHL Ice Center Pass 3 FHD
+http://tunestream.me:8080/thomas/thomas/66385
+#EXTINF:-1,VIP US: NHL Ice Center Pass 4 FHD
+http://tunestream.me:8080/thomas/thomas/66386
+#EXTINF:-1,VIP US: NHL Ice Center Pass 5 FHD
+http://tunestream.me:8080/thomas/thomas/66387
+#EXTINF:-1,VIP US: NHL Ice Center Pass 6 FHD
+http://tunestream.me:8080/thomas/thomas/66388
+#EXTINF:-1,VIP US: NHL Ice Center Pass 7 FHD
+http://tunestream.me:8080/thomas/thomas/66389
+#EXTINF:-1,VIP US: NHL Ice Center Pass 8 FHD
+http://tunestream.me:8080/thomas/thomas/66390
+#EXTINF:-1,VIP US: NHL Ice Center Pass 9 FHD
+http://tunestream.me:8080/thomas/thomas/66391
+#EXTINF:-1,VIP US: NHL Ice Center Pass 10 FHD
+http://tunestream.me:8080/thomas/thomas/66392
+#EXTINF:-1,VIP US: NHL Ice Center Pass 11 FHD
+http://tunestream.me:8080/thomas/thomas/66393
+#EXTINF:-1,VIP US: NHL Ice Center Pass 12 FHD
+http://tunestream.me:8080/thomas/thomas/66394
+#EXTINF:-1,VIP US: NHL Ice Center Pass 13 FHD
+http://tunestream.me:8080/thomas/thomas/66395
+#EXTINF:-1,VIP US: NHL Ice Center Pass 14 FHD
+http://tunestream.me:8080/thomas/thomas/66396
+#EXTINF:-1,VIP US: NHL Ice Center Pass 15 FHD
+http://tunestream.me:8080/thomas/thomas/66397
+#EXTINF:-1,VIP US: NHL Ice Center Pass 16 FHD
+http://tunestream.me:8080/thomas/thomas/66398
+#EXTINF:-1,VIP US: NHL Ice Center Pass 17 FHD
+http://tunestream.me:8080/thomas/thomas/66399
+#EXTINF:-1,VIP US: NHL Ice Center Pass 18 FHD
+http://tunestream.me:8080/thomas/thomas/66400
+#EXTINF:-1,VIP US: NHL Ice Center Pass 19 FHD
+http://tunestream.me:8080/thomas/thomas/66401
+#EXTINF:-1,VIP US: NHL Ice Center Pass 20 FHD
+http://tunestream.me:8080/thomas/thomas/66402
+#EXTINF:-1,VIP US: NHL Arizona Coyotes HD
+http://tunestream.me:8080/thomas/thomas/19226
+#EXTINF:-1,VIP US: NHL Vegas Golden Knights HD
+http://tunestream.me:8080/thomas/thomas/19225
+#EXTINF:-1,VIP US: NHL Dallas Stars HD
+http://tunestream.me:8080/thomas/thomas/19224
+#EXTINF:-1,VIP US: NHL Buffalo Sabres HD
+http://tunestream.me:8080/thomas/thomas/19223
+#EXTINF:-1,VIP US: NHL Boston Bruins HD
+http://tunestream.me:8080/thomas/thomas/19222
+#EXTINF:-1,VIP US: NHL Los Angeles Kings
+http://tunestream.me:8080/thomas/thomas/19221
+#EXTINF:-1,VIP US: NHL Calgary Flames HD
+http://tunestream.me:8080/thomas/thomas/19220
+#EXTINF:-1,VIP US: NHL Philadelphia Flyers HD
+http://tunestream.me:8080/thomas/thomas/19219
+#EXTINF:-1,VIP US: NHL Winnipeg Jets HD
+http://tunestream.me:8080/thomas/thomas/19218
+#EXTINF:-1,VIP US: NHL Florida Panthers HD
+http://tunestream.me:8080/thomas/thomas/19217
+#EXTINF:-1,VIP US: NHL Pittsburgh Penguins HD
+http://tunestream.me:8080/thomas/thomas/19216
+#EXTINF:-1,VIP US: NHL New Jersey Devils HD
+http://tunestream.me:8080/thomas/thomas/19215
+#EXTINF:-1,VIP US: NHL Anaheim Ducks HD
+http://tunestream.me:8080/thomas/thomas/19214
+#EXTINF:-1,VIP US: NHL San Jose Sharks HD
+http://tunestream.me:8080/thomas/thomas/19213
+#EXTINF:-1,VIP US: NHL  Columbus Blue Jackets HD
+http://tunestream.me:8080/thomas/thomas/63086
+#EXTINF:-1,VIP US: NHL Carolina Hurricanes HD
+http://tunestream.me:8080/thomas/thomas/63078
+#EXTINF:-1,VIP US: NHL Chicago Blackhawks HD
+http://tunestream.me:8080/thomas/thomas/63082
+#EXTINF:-1,VIP US: NHL Colorado Avalanche HD
+http://tunestream.me:8080/thomas/thomas/63088
+#EXTINF:-1,VIP US: NHL Detroit Red Wings HD
+http://tunestream.me:8080/thomas/thomas/63089
+#EXTINF:-1,VIP US: NHL Edmonton Oilers HD
+http://tunestream.me:8080/thomas/thomas/63075
+#EXTINF:-1,VIP US: NHL Minnesota Wild HD
+http://tunestream.me:8080/thomas/thomas/63085
+#EXTINF:-1,VIP US: NHL Montreal Canadiens HD
+http://tunestream.me:8080/thomas/thomas/63080
+#EXTINF:-1,VIP US: NHL Nashville Predators HD
+http://tunestream.me:8080/thomas/thomas/63077
+#EXTINF:-1,VIP US: NHL New York Islanders HD
+http://tunestream.me:8080/thomas/thomas/63087
+#EXTINF:-1,VIP US: NHL New York Rangers HD
+http://tunestream.me:8080/thomas/thomas/63084
+#EXTINF:-1,VIP US: NHL Ottawa Senators HD
+http://tunestream.me:8080/thomas/thomas/63081
+#EXTINF:-1,VIP US: NHL St Louis Blues HD
+http://tunestream.me:8080/thomas/thomas/63076
+#EXTINF:-1,VIP US: NHL Tampa Bay Lightning HD
+http://tunestream.me:8080/thomas/thomas/63079
+#EXTINF:-1,VIP US: NHL Toronto Maple Leafs HD
+http://tunestream.me:8080/thomas/thomas/63083
+#EXTINF:-1,VIP US: NHL Vancouver Canucks HD
+http://tunestream.me:8080/thomas/thomas/63074
+#EXTINF:-1,VIP US: NHL Washington Capitals HD
+http://tunestream.me:8080/thomas/thomas/63090
+#EXTINF:-1,VIP US: NHL NETWORK
+http://tunestream.me:8080/thomas/thomas/10686
+#EXTINF:-1,VIP US: NHLTV NETWORK HD
+http://tunestream.me:8080/thomas/thomas/10667
+#EXTINF:-1,VIP US: NICK HD (kids)
+http://tunestream.me:8080/thomas/thomas/10663
+#EXTINF:-1,VIP US: NICKELODEON KIDS
+http://tunestream.me:8080/thomas/thomas/10695
+#EXTINF:-1,VIP US: NICKTOONS
+http://tunestream.me:8080/thomas/thomas/10662
+#EXTINF:-1,VIP US: Star Channel FHD
+http://tunestream.me:8080/thomas/thomas/10679
+#EXTINF:-1,VIP US: ONE AMERICA NETWORK
+http://tunestream.me:8080/thomas/thomas/22873
+#EXTINF:-1,VIP US: Outdoor HD
+http://tunestream.me:8080/thomas/thomas/19599
+#EXTINF:-1,VIP US: Outermax
+http://tunestream.me:8080/thomas/thomas/22872
+#EXTINF:-1,VIP US: OWN HD
+http://tunestream.me:8080/thomas/thomas/10661
+#EXTINF:-1,VIP US: Oxygen
+http://tunestream.me:8080/thomas/thomas/22870
+#EXTINF:-1,VIP US: OxyGen HD
+http://tunestream.me:8080/thomas/thomas/22892
+#EXTINF:-1,VIP US: Pac12 Area HD US
+http://tunestream.me:8080/thomas/thomas/9860
+#EXTINF:-1,VIP US: Pac12 Arizona HD US
+http://tunestream.me:8080/thomas/thomas/9861
+#EXTINF:-1,VIP US: Pac12 Los Angeles HD US
+http://tunestream.me:8080/thomas/thomas/9862
+#EXTINF:-1,VIP US: Pac12 Mountain HD
+http://tunestream.me:8080/thomas/thomas/9863
+#EXTINF:-1,VIP US: Pac12 Network HD US
+http://tunestream.me:8080/thomas/thomas/9866
+#EXTINF:-1,VIP US: Pac12 Oregon HD US
+http://tunestream.me:8080/thomas/thomas/9864
+#EXTINF:-1,VIP US: Pac12 Washington HD US
+http://tunestream.me:8080/thomas/thomas/9865
+#EXTINF:-1,VIP US: Paramount Network
+http://tunestream.me:8080/thomas/thomas/22869
+#EXTINF:-1,VIP US: PBS Kids
+http://tunestream.me:8080/thomas/thomas/10680
+#EXTINF:-1,VIP US: PDC Darts (Event Only)
+http://tunestream.me:8080/thomas/thomas/26909
+#EXTINF:-1,VIP US: Poker Go
+http://tunestream.me:8080/thomas/thomas/26910
+#EXTINF:-1,VIP US: Pop TV
+http://tunestream.me:8080/thomas/thomas/22868
+#EXTINF:-1,VIP US: PPV Event 1
+http://tunestream.me:8080/thomas/thomas/34695
+#EXTINF:-1,VIP US: PPV 6 Live Event HD
+http://tunestream.me:8080/thomas/thomas/34696
+#EXTINF:-1,VIP US: PPV 1 Live Event HD
+http://tunestream.me:8080/thomas/thomas/30980
+#EXTINF:-1,VIP US: PPV 2
+http://tunestream.me:8080/thomas/thomas/34697
+#EXTINF:-1,VIP US: PPV 7 Live Event HD
+http://tunestream.me:8080/thomas/thomas/34698
+#EXTINF:-1,VIP US: PPV 2 Live Event HD
+http://tunestream.me:8080/thomas/thomas/30979
+#EXTINF:-1,VIP US: PPV 3
+http://tunestream.me:8080/thomas/thomas/34699
+#EXTINF:-1,VIP US: PPV 8 Live Event HD
+http://tunestream.me:8080/thomas/thomas/34702
+#EXTINF:-1,VIP US: PPV 3 Live Event HD
+http://tunestream.me:8080/thomas/thomas/30978
+#EXTINF:-1,VIP US: PPV 4
+http://tunestream.me:8080/thomas/thomas/34700
+#EXTINF:-1,VIP US: PPV 9 Live Event HD
+http://tunestream.me:8080/thomas/thomas/34701
+#EXTINF:-1,VIP US: PPV 4 Live Event HD
+http://tunestream.me:8080/thomas/thomas/30977
+#EXTINF:-1,VIP US: PPV 5
+http://tunestream.me:8080/thomas/thomas/34703
+#EXTINF:-1,VIP US: PPV 10 Live Event HD
+http://tunestream.me:8080/thomas/thomas/34704
+#EXTINF:-1,VIP US: PPV 5 Live Event HD
+http://tunestream.me:8080/thomas/thomas/30976
+#EXTINF:-1,VIP US: Pursuit Channel
+http://tunestream.me:8080/thomas/thomas/22857
+#EXTINF:-1,VIP US: QVC
+http://tunestream.me:8080/thomas/thomas/22867
+#EXTINF:-1,VIP US: Reelz
+http://tunestream.me:8080/thomas/thomas/22865
+#EXTINF:-1,VIP US: REVOLT
+http://tunestream.me:8080/thomas/thomas/22866
+#EXTINF:-1,VIP US: RT America HD
+http://tunestream.me:8080/thomas/thomas/22889
+#EXTINF:-1,VIP US: RT DOCUMENTARY
+http://tunestream.me:8080/thomas/thomas/10685
+#EXTINF:-1,VIP US: SBG Stadium
+http://tunestream.me:8080/thomas/thomas/22033
+#EXTINF:-1,VIP US: SBG Stadium 1
+http://tunestream.me:8080/thomas/thomas/22032
+#EXTINF:-1,VIP US: SBG Stadium 2
+http://tunestream.me:8080/thomas/thomas/22031
+#EXTINF:-1,VIP US: SEC Network HD
+http://tunestream.me:8080/thomas/thomas/22891
+#EXTINF:-1,VIP US: Showtime Beyond
+http://tunestream.me:8080/thomas/thomas/22864
+#EXTINF:-1,VIP US: Showtime Extreme HD
+http://tunestream.me:8080/thomas/thomas/10660
+#EXTINF:-1,VIP US: Showtime HD
+http://tunestream.me:8080/thomas/thomas/10739
+#EXTINF:-1,VIP US: Showtime Pacific HD
+http://tunestream.me:8080/thomas/thomas/10740
+#EXTINF:-1,VIP US: Showtime Showcase
+http://tunestream.me:8080/thomas/thomas/10659
+#EXTINF:-1,VIP US: Showtime Women
+http://tunestream.me:8080/thomas/thomas/22862
+#EXTINF:-1,VIP US: Smithsonian Channel
+http://tunestream.me:8080/thomas/thomas/22861
+#EXTINF:-1,VIP US: SNY SportsNet New York FHD US
+http://tunestream.me:8080/thomas/thomas/22890
+#EXTINF:-1,VIP US: SPIKE TV
+http://tunestream.me:8080/thomas/thomas/10756
+#EXTINF:-1,VIP US: Starz Cinema
+http://tunestream.me:8080/thomas/thomas/10741
+#EXTINF:-1,VIP US: Starz Comedy
+http://tunestream.me:8080/thomas/thomas/10742
+#EXTINF:-1,VIP US: Starz East
+http://tunestream.me:8080/thomas/thomas/10743
+#EXTINF:-1,VIP US: Starz Edge HD
+http://tunestream.me:8080/thomas/thomas/10744
+#EXTINF:-1,VIP US: Starz Encore East
+http://tunestream.me:8080/thomas/thomas/10725
+#EXTINF:-1,VIP US: Starz Encore HD
+http://tunestream.me:8080/thomas/thomas/10724
+#EXTINF:-1,VIP US: Starz West
+http://tunestream.me:8080/thomas/thomas/10746
+#EXTINF:-1,VIP US: Sundance Tv
+http://tunestream.me:8080/thomas/thomas/22860
+#EXTINF:-1,VIP US: SYFY HD
+http://tunestream.me:8080/thomas/thomas/10684
+#EXTINF:-1,VIP US: TBN
+http://tunestream.me:8080/thomas/thomas/39881
+#EXTINF:-1,VIP US: TBS HD
+http://tunestream.me:8080/thomas/thomas/10750
+#EXTINF:-1,VIP US: TCM
+http://tunestream.me:8080/thomas/thomas/22858
+#EXTINF:-1,VIP US: Teen Nick HD
+http://tunestream.me:8080/thomas/thomas/10678
+#EXTINF:-1,VIP US: Telemundo New York
+http://tunestream.me:8080/thomas/thomas/37954
+#EXTINF:-1,VIP US: Telemundo Miami
+http://tunestream.me:8080/thomas/thomas/74118
+#EXTINF:-1,VIP US: TENNIS HD
+http://tunestream.me:8080/thomas/thomas/10658
+#EXTINF:-1,VIP US: The Blaze
+http://tunestream.me:8080/thomas/thomas/22880
+#EXTINF:-1,VIP US: The Sportsman Channel HD
+http://tunestream.me:8080/thomas/thomas/22881
+#EXTINF:-1,VIP US: The Weather Channel
+http://tunestream.me:8080/thomas/thomas/10709
+#EXTINF:-1,VIP US: TLC HD
+http://tunestream.me:8080/thomas/thomas/10764
+#EXTINF:-1,VIP US: TNT HD
+http://tunestream.me:8080/thomas/thomas/10751
+#EXTINF:-1,VIP US: TRAVEL CHANNEL
+http://tunestream.me:8080/thomas/thomas/10765
+#EXTINF:-1,VIP US: TRU TV
+http://tunestream.me:8080/thomas/thomas/10657
+#EXTINF:-1,VIP US: TRUE MOVIES
+http://tunestream.me:8080/thomas/thomas/10683
+#EXTINF:-1,VIP US: TV Land
+http://tunestream.me:8080/thomas/thomas/22856
+#EXTINF:-1,VIP US: TV One
+http://tunestream.me:8080/thomas/thomas/22859
+#EXTINF:-1,VIP US: TVG 2 HD
+http://tunestream.me:8080/thomas/thomas/27808
+#EXTINF:-1,VIP US: TVG HD
+http://tunestream.me:8080/thomas/thomas/27809
+#EXTINF:-1,VIP US: UFC Fight Pass 02
+http://tunestream.me:8080/thomas/thomas/34746
+#EXTINF:-1,VIP US: UFC Fight Pass 03
+http://tunestream.me:8080/thomas/thomas/34747
+#EXTINF:-1,VIP US: UFC Fight Pass 04
+http://tunestream.me:8080/thomas/thomas/34748
+#EXTINF:-1,VIP US: UFC Fight Pass 05
+http://tunestream.me:8080/thomas/thomas/34749
+#EXTINF:-1,VIP US: UFC Fight Pass 06
+http://tunestream.me:8080/thomas/thomas/34750
+#EXTINF:-1,VIP US: UFC Fight Pass 07
+http://tunestream.me:8080/thomas/thomas/34751
+#EXTINF:-1,VIP US: UFC Fight Pass 08
+http://tunestream.me:8080/thomas/thomas/34752
+#EXTINF:-1,VIP US: UFC Fight Pass 09
+http://tunestream.me:8080/thomas/thomas/34753
+#EXTINF:-1,VIP US: UFC Fight Pass 10
+http://tunestream.me:8080/thomas/thomas/34754
+#EXTINF:-1,VIP US: UFC Fight Pass FHD
+http://tunestream.me:8080/thomas/thomas/27971
+#EXTINF:-1,VIP US: UFC Fight Pass Live Only
+http://tunestream.me:8080/thomas/thomas/34745
+#EXTINF:-1,VIP US: Universal Kids
+http://tunestream.me:8080/thomas/thomas/22855
+#EXTINF:-1,VIP US: Univision
+http://tunestream.me:8080/thomas/thomas/23804
+#EXTINF:-1,VIP US: Univision New York
+http://tunestream.me:8080/thomas/thomas/40113
+#EXTINF:-1,VIP US: Univision Miami
+http://tunestream.me:8080/thomas/thomas/74119
+#EXTINF:-1,VIP US: USA Network
+http://tunestream.me:8080/thomas/thomas/10753
+#EXTINF:-1,VIP US: USA Network HD
+http://tunestream.me:8080/thomas/thomas/22852
+#EXTINF:-1,VIP US: VH1
+http://tunestream.me:8080/thomas/thomas/10154
+#EXTINF:-1,VIP US: VH1 Classic
+http://tunestream.me:8080/thomas/thomas/10155
+#EXTINF:-1,VIP US: VH1 HD
+http://tunestream.me:8080/thomas/thomas/10655
+#EXTINF:-1,VIP US: Viceland HD
+http://tunestream.me:8080/thomas/thomas/22851
+#EXTINF:-1,VIP US: We Tv
+http://tunestream.me:8080/thomas/thomas/22849
+#EXTINF:-1,VIP US: Westerns 4 U
+http://tunestream.me:8080/thomas/thomas/22848
+#EXTINF:-1,VIP US: WGN America
+http://tunestream.me:8080/thomas/thomas/22850
+#EXTINF:-1,VIP US: WGN News
+http://tunestream.me:8080/thomas/thomas/22853
+#EXTINF:-1,VIP US: World Fight Channel HD
+http://tunestream.me:8080/thomas/thomas/9867
+#EXTINF:-1,VIP US: World Fishing Network HD
+http://tunestream.me:8080/thomas/thomas/10723
+#EXTINF:-1,VIP US: WRC Live (Events Only)
+http://tunestream.me:8080/thomas/thomas/26911
+#EXTINF:-1,VIP US: WWE Network
+http://tunestream.me:8080/thomas/thomas/10766
+#EXTINF:-1,VIP US: YES HD
+http://tunestream.me:8080/thomas/thomas/18212
+#EXTINF:-1,VIP US: FreeRom HD
+http://tunestream.me:8080/thomas/thomas/5234
+#EXTINF:-1,VIP US: CNBC World HD
+http://tunestream.me:8080/thomas/thomas/3589
+#EXTINF:-1,US: FOX Sport 1
+http://tunestream.me:8080/thomas/thomas/2860
+#EXTINF:-1,US: FOX Sport 2
+http://tunestream.me:8080/thomas/thomas/2861
+#EXTINF:-1,US: NBA TV
+http://tunestream.me:8080/thomas/thomas/5387
+#EXTINF:-1,US: TBS HD
+http://tunestream.me:8080/thomas/thomas/3587
+#EXTINF:-1,US: SYFY HD
+http://tunestream.me:8080/thomas/thomas/5238
+#EXTINF:-1,US: SPIKE / PARA HD
+http://tunestream.me:8080/thomas/thomas/5237
+#EXTINF:-1,US: NICKELODEN HD
+http://tunestream.me:8080/thomas/thomas/5236
+#EXTINF:-1,US: Cartoon Network HD
+http://tunestream.me:8080/thomas/thomas/7932
+#EXTINF:-1,US: Cozi TV
+http://tunestream.me:8080/thomas/thomas/5225
+#EXTINF:-1,US: STARZ EDGE HD
+http://tunestream.me:8080/thomas/thomas/5397
+#EXTINF:-1,US: Starz Comedy
+http://tunestream.me:8080/thomas/thomas/5396
+#EXTINF:-1,US: Sportsnet World HD
+http://tunestream.me:8080/thomas/thomas/4279
+#EXTINF:-1,US: Showtime Showcase
+http://tunestream.me:8080/thomas/thomas/5402
+#EXTINF:-1,US: Showtime Next
+http://tunestream.me:8080/thomas/thomas/5399
+#EXTINF:-1,US: Showtime Extreme
+http://tunestream.me:8080/thomas/thomas/5398
+#EXTINF:-1,US: ShowTime 2 HD
+http://tunestream.me:8080/thomas/thomas/5401
+#EXTINF:-1,US: ShowTime HD
+http://tunestream.me:8080/thomas/thomas/5390
+#EXTINF:-1,US: CBS HD
+http://tunestream.me:8080/thomas/thomas/7800
+#EXTINF:-1,US: National Geographic HD
+http://tunestream.me:8080/thomas/thomas/5404
+#EXTINF:-1,US: Investigation Discovery
+http://tunestream.me:8080/thomas/thomas/5410
+#EXTINF:-1,US: HISTORY
+http://tunestream.me:8080/thomas/thomas/5405
+#EXTINF:-1,US: HBO Family
+http://tunestream.me:8080/thomas/thomas/5400
+#EXTINF:-1,US: Food Network HD
+http://tunestream.me:8080/thomas/thomas/5403
+#EXTINF:-1,US: TENNIS HD
+http://tunestream.me:8080/thomas/thomas/5407
+#EXTINF:-1,US: Discovery Life HD
+http://tunestream.me:8080/thomas/thomas/5409
+#EXTINF:-1,US: Discovery Channel HD
+http://tunestream.me:8080/thomas/thomas/5408
+#EXTINF:-1,US: Cinemax Moremax
+http://tunestream.me:8080/thomas/thomas/5395
+#EXTINF:-1,US: Cinemax East
+http://tunestream.me:8080/thomas/thomas/5393
+#EXTINF:-1,US: Cinemax ActionMax East
+http://tunestream.me:8080/thomas/thomas/5394
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://tunestream.me:8080/thomas/thomas/5392
+#EXTINF:-1,US: Bein Sports USA HD
+http://tunestream.me:8080/thomas/thomas/5391
+#EXTINF:-1,US: Animal Planet HD
+http://tunestream.me:8080/thomas/thomas/5406
+#EXTINF:-1,US:  HBO Zone HD
+http://tunestream.me:8080/thomas/thomas/5389
+#EXTINF:-1,US: HBO East HD
+http://tunestream.me:8080/thomas/thomas/5388
+#EXTINF:-1,US: FX HD
+http://tunestream.me:8080/thomas/thomas/5231
+#EXTINF:-1,US: FOX Business HD
+http://tunestream.me:8080/thomas/thomas/5233
+#EXTINF:-1,US: ESPN HD
+http://tunestream.me:8080/thomas/thomas/5227
+#EXTINF:-1,US: CW HD
+http://tunestream.me:8080/thomas/thomas/5230
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://tunestream.me:8080/thomas/thomas/5242
+#EXTINF:-1,US: Buzzr
+http://tunestream.me:8080/thomas/thomas/5244
+#EXTINF:-1,US: CBS News HD
+http://tunestream.me:8080/thomas/thomas/8098
+#EXTINF:-1,US: BRAVO HD
+http://tunestream.me:8080/thomas/thomas/5228
+#EXTINF:-1,US: AMC HD
+http://tunestream.me:8080/thomas/thomas/5229
+#EXTINF:-1,US: ABC HD
+http://tunestream.me:8080/thomas/thomas/5239
+#EXTINF:-1,US: A&E TV HD
+http://tunestream.me:8080/thomas/thomas/5240
+#EXTINF:-1,US: LIFE TIME HD
+http://tunestream.me:8080/thomas/thomas/3588
+#EXTINF:-1,US: Fox 46 HD
+http://tunestream.me:8080/thomas/thomas/3590
+#EXTINF:-1,US: HBO SIGNATURE
+http://tunestream.me:8080/thomas/thomas/3591
+#EXTINF:-1,US: MSNBC HD
+http://tunestream.me:8080/thomas/thomas/8000
+#EXTINF:-1,US: HBO HD
+http://tunestream.me:8080/thomas/thomas/3592
+#EXTINF:-1,US: HALLMARK
+http://tunestream.me:8080/thomas/thomas/3593
+#EXTINF:-1,US: H2
+http://tunestream.me:8080/thomas/thomas/3594
+#EXTINF:-1,US: A&E HD
+http://tunestream.me:8080/thomas/thomas/3585
+#EXTINF:-1,US: Bravo
+http://tunestream.me:8080/thomas/thomas/2654
+#EXTINF:-1,US: CNN HD
+http://tunestream.me:8080/thomas/thomas/876
+#EXTINF:-1,US: NFL Network HD 1080P
+http://tunestream.me:8080/thomas/thomas/2863
+#EXTINF:-1,US: NBC SPORT
+http://tunestream.me:8080/thomas/thomas/2864
+#EXTINF:-1,US: USA Network HD
+http://tunestream.me:8080/thomas/thomas/871
+#EXTINF:-1,US: HBO Family HD
+http://tunestream.me:8080/thomas/thomas/878
+#EXTINF:-1,US: Starz Cinema HD
+http://tunestream.me:8080/thomas/thomas/874
+#EXTINF:-1,US: HBO Plus
+http://tunestream.me:8080/thomas/thomas/875
+#EXTINF:-1,US: ABC News HD
+http://tunestream.me:8080/thomas/thomas/873
+#EXTINF:-1,US: ESPN
+http://tunestream.me:8080/thomas/thomas/872
+#EXTINF:-1,US: ESPN 2 HD
+http://tunestream.me:8080/thomas/thomas/5386
+#EXTINF:-1,US: WWE HD
+http://tunestream.me:8080/thomas/thomas/5184
+#EXTINF:-1,===== VIP Canada =======
+http://tunestream.me:8080/thomas/thomas/22794
+#EXTINF:-1,VIP CAN: A & E
+http://tunestream.me:8080/thomas/thomas/22793
+#EXTINF:-1,VIP CAN: ABC EAST
+http://tunestream.me:8080/thomas/thomas/22792
+#EXTINF:-1,VIP CAN: ABC Spark HD
+http://tunestream.me:8080/thomas/thomas/15328
+#EXTINF:-1,VIP CAN: ABC WEST
+http://tunestream.me:8080/thomas/thomas/22791
+#EXTINF:-1,VIP CAN: ADDIK TV
+http://tunestream.me:8080/thomas/thomas/22789
+#EXTINF:-1,VIP CAN: Adult Swim
+http://tunestream.me:8080/thomas/thomas/33696
+#EXTINF:-1,VIP CAN: AHC HD
+http://tunestream.me:8080/thomas/thomas/15327
+#EXTINF:-1,VIP CAN: AMC
+http://tunestream.me:8080/thomas/thomas/22788
+#EXTINF:-1,VIP CAN: AMI-tele (FR)
+http://tunestream.me:8080/thomas/thomas/33697
+#EXTINF:-1,VIP CAN: ANIMAL PLANET
+http://tunestream.me:8080/thomas/thomas/22787
+#EXTINF:-1,VIP CAN: APTN
+http://tunestream.me:8080/thomas/thomas/22753
+#EXTINF:-1,VIP CAN: BBC Canada
+http://tunestream.me:8080/thomas/thomas/22790
+#EXTINF:-1,VIP CAN: BEIN SPORTS FHD
+http://tunestream.me:8080/thomas/thomas/30992
+#EXTINF:-1,VIP CAN: BET
+http://tunestream.me:8080/thomas/thomas/33698
+#EXTINF:-1,VIP CAN: BNN
+http://tunestream.me:8080/thomas/thomas/22785
+#EXTINF:-1,VIP CAN: BOOK TV
+http://tunestream.me:8080/thomas/thomas/33699
+#EXTINF:-1,VIP CAN: BOOMERANG HD
+http://tunestream.me:8080/thomas/thomas/33700
+#EXTINF:-1,VIP CAN: Bravo
+http://tunestream.me:8080/thomas/thomas/15324
+#EXTINF:-1,VIP CAN: C&I
+http://tunestream.me:8080/thomas/thomas/22761
+#EXTINF:-1,VIP CAN: Canal D
+http://tunestream.me:8080/thomas/thomas/15319
+#EXTINF:-1,VIP CAN: CANAL SAVOIR
+http://tunestream.me:8080/thomas/thomas/22786
+#EXTINF:-1,VIP CAN: CARTOON NETWORK
+http://tunestream.me:8080/thomas/thomas/22784
+#EXTINF:-1,VIP CAN: CASA
+http://tunestream.me:8080/thomas/thomas/22783
+#EXTINF:-1,VIP CAN: CBC CALGARY HD
+http://tunestream.me:8080/thomas/thomas/33701
+#EXTINF:-1,VIP CAN: CBC CHARLOTTETOWN
+http://tunestream.me:8080/thomas/thomas/22782
+#EXTINF:-1,VIP CAN: CBC EDMONTON
+http://tunestream.me:8080/thomas/thomas/33702
+#EXTINF:-1,VIP CAN: CBC FREDERICTON
+http://tunestream.me:8080/thomas/thomas/22781
+#EXTINF:-1,VIP CAN: CBC HALIFAX HD
+http://tunestream.me:8080/thomas/thomas/33703
+#EXTINF:-1,VIP CAN: CBC MONTREAL
+http://tunestream.me:8080/thomas/thomas/22780
+#EXTINF:-1,VIP CAN: CBC NEWS
+http://tunestream.me:8080/thomas/thomas/22779
+#EXTINF:-1,VIP CAN: CBC OTTAWA
+http://tunestream.me:8080/thomas/thomas/22778
+#EXTINF:-1,VIP CAN: CBC REGINA HD
+http://tunestream.me:8080/thomas/thomas/33704
+#EXTINF:-1,VIP CAN: CBC ST. JOHNS
+http://tunestream.me:8080/thomas/thomas/22777
+#EXTINF:-1,VIP CAN: CBC TORONTO
+http://tunestream.me:8080/thomas/thomas/22776
+#EXTINF:-1,VIP CAN: CBC VANCOUVER
+http://tunestream.me:8080/thomas/thomas/22775
+#EXTINF:-1,VIP CAN: CBC WINNIPEG
+http://tunestream.me:8080/thomas/thomas/22774
+#EXTINF:-1,VIP CAN: CBC WINNIPEG HD
+http://tunestream.me:8080/thomas/thomas/26393
+#EXTINF:-1,VIP CAN: CBC YELLOWKNIFE HD
+http://tunestream.me:8080/thomas/thomas/33705
+#EXTINF:-1,VIP CAN: CBC3
+http://tunestream.me:8080/thomas/thomas/33706
+#EXTINF:-1,VIP CAN: CBCLGARY
+http://tunestream.me:8080/thomas/thomas/33707
+#EXTINF:-1,VIP CAN: CBS BOSTON MA WBZ
+http://tunestream.me:8080/thomas/thomas/33708
+#EXTINF:-1,VIP CAN: CBS EAST
+http://tunestream.me:8080/thomas/thomas/22773
+#EXTINF:-1,VIP CAN: CBS SEATTLE WA KIRO
+http://tunestream.me:8080/thomas/thomas/33709
+#EXTINF:-1,VIP CAN: CBS WEST
+http://tunestream.me:8080/thomas/thomas/22772
+#EXTINF:-1,VIP CAN: CHCH
+http://tunestream.me:8080/thomas/thomas/22771
+#EXTINF:-1,VIP CAN: CINEMAX (WEST) HD
+http://tunestream.me:8080/thomas/thomas/33710
+#EXTINF:-1,VIP CAN: CINEPOP
+http://tunestream.me:8080/thomas/thomas/22770
+#EXTINF:-1,VIP CAN: CITY TORONTO
+http://tunestream.me:8080/thomas/thomas/22769
+#EXTINF:-1,VIP CAN: CITY TV CALGARY HD
+http://tunestream.me:8080/thomas/thomas/33711
+#EXTINF:-1,VIP CAN: CITY VANCOUVER
+http://tunestream.me:8080/thomas/thomas/22768
+#EXTINF:-1,VIP CAN: CITY WINNIPEG HD
+http://tunestream.me:8080/thomas/thomas/26394
+#EXTINF:-1,VIP CAN: CMT CANADA
+http://tunestream.me:8080/thomas/thomas/22767
+#EXTINF:-1,VIP CAN: CNBC
+http://tunestream.me:8080/thomas/thomas/22766
+#EXTINF:-1,VIP CAN: CNN
+http://tunestream.me:8080/thomas/thomas/22765
+#EXTINF:-1,VIP CAN: Comedy
+http://tunestream.me:8080/thomas/thomas/15321
+#EXTINF:-1,VIP CAN: COOKING CHANNEL
+http://tunestream.me:8080/thomas/thomas/22764
+#EXTINF:-1,VIP CAN: Cottage Life FHD
+http://tunestream.me:8080/thomas/thomas/33712
+#EXTINF:-1,VIP CAN: CP24 HD
+http://tunestream.me:8080/thomas/thomas/15297
+#EXTINF:-1,VIP CAN: CPAC
+http://tunestream.me:8080/thomas/thomas/22763
+#EXTINF:-1,VIP CAN: CPAC FRENCH
+http://tunestream.me:8080/thomas/thomas/22762
+#EXTINF:-1,VIP CAN: CRAVE 1 HD
+http://tunestream.me:8080/thomas/thomas/33713
+#EXTINF:-1,VIP CAN: CRAVE 2 HD
+http://tunestream.me:8080/thomas/thomas/33714
+#EXTINF:-1,VIP CAN: CRAVE 3 HD
+http://tunestream.me:8080/thomas/thomas/33715
+#EXTINF:-1,VIP CAN: CRAVE 4 HD
+http://tunestream.me:8080/thomas/thomas/33716
+#EXTINF:-1,VIP CAN: Crime  Investigation HD
+http://tunestream.me:8080/thomas/thomas/33717
+#EXTINF:-1,VIP CAN: CTV
+http://tunestream.me:8080/thomas/thomas/15318
+#EXTINF:-1,VIP CAN: CTV 2
+http://tunestream.me:8080/thomas/thomas/33718
+#EXTINF:-1,VIP CAN: CTV BARRIE
+http://tunestream.me:8080/thomas/thomas/33719
+#EXTINF:-1,VIP CAN: CTV COMEDY East
+http://tunestream.me:8080/thomas/thomas/33720
+#EXTINF:-1,VIP CAN: CTV COMEDY HD
+http://tunestream.me:8080/thomas/thomas/33721
+#EXTINF:-1,VIP CAN: CTV DRAMA Channel
+http://tunestream.me:8080/thomas/thomas/33722
+#EXTINF:-1,VIP CAN: CTV HALIFAX
+http://tunestream.me:8080/thomas/thomas/33723
+#EXTINF:-1,VIP CAN: CTV KITCHENER
+http://tunestream.me:8080/thomas/thomas/22760
+#EXTINF:-1,VIP CAN: CTV MONTREAL
+http://tunestream.me:8080/thomas/thomas/22759
+#EXTINF:-1,VIP CAN: CTV News Channel
+http://tunestream.me:8080/thomas/thomas/33724
+#EXTINF:-1,VIP CAN: CTV News Live Events 1
+http://tunestream.me:8080/thomas/thomas/33725
+#EXTINF:-1,VIP CAN: CTV News Live Events 2
+http://tunestream.me:8080/thomas/thomas/33726
+#EXTINF:-1,VIP CAN: CTV News Live Events 3 HD
+http://tunestream.me:8080/thomas/thomas/33727
+#EXTINF:-1,VIP CAN: CTV News Live Events 4
+http://tunestream.me:8080/thomas/thomas/33728
+#EXTINF:-1,VIP CAN: CTV NEWS NETWORK
+http://tunestream.me:8080/thomas/thomas/22758
+#EXTINF:-1,VIP CAN: CTV NEWS VANCOUVER
+http://tunestream.me:8080/thomas/thomas/33729
+#EXTINF:-1,VIP CAN: CTV OTTAWA
+http://tunestream.me:8080/thomas/thomas/22757
+#EXTINF:-1,VIP CAN: CTV Sci-Fi
+http://tunestream.me:8080/thomas/thomas/33730
+#EXTINF:-1,VIP CAN: CTV TORONTO
+http://tunestream.me:8080/thomas/thomas/22756
+#EXTINF:-1,VIP CAN: CTV Two
+http://tunestream.me:8080/thomas/thomas/15315
+#EXTINF:-1,VIP CAN: CTV Two Atlantic
+http://tunestream.me:8080/thomas/thomas/33731
+#EXTINF:-1,VIP CAN: CTV VANCOUVER
+http://tunestream.me:8080/thomas/thomas/22755
+#EXTINF:-1,VIP CAN: CTV VANCOUVER HD
+http://tunestream.me:8080/thomas/thomas/33732
+#EXTINF:-1,VIP CAN: CTV WINNIPEG
+http://tunestream.me:8080/thomas/thomas/26397
+#EXTINF:-1,VIP CAN: CTV2 OTTAWA
+http://tunestream.me:8080/thomas/thomas/33733
+#EXTINF:-1,VIP CAN: CTVLGARY
+http://tunestream.me:8080/thomas/thomas/33734
+#EXTINF:-1,VIP CAN: Dastar
+http://tunestream.me:8080/thomas/thomas/33735
+#EXTINF:-1,VIP CAN: DAYSTAR TV
+http://tunestream.me:8080/thomas/thomas/22754
+#EXTINF:-1,VIP CAN: DAZN 1 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32890
+#EXTINF:-1,VIP CAN: DAZN 2 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32891
+#EXTINF:-1,VIP CAN: DAZN 3 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32892
+#EXTINF:-1,VIP CAN: DAZN 4 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32893
+#EXTINF:-1,VIP CAN: DAZN 5 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32894
+#EXTINF:-1,VIP CAN: DAZN 6 Canada HD ( Only During Events )
+http://tunestream.me:8080/thomas/thomas/32895
+#EXTINF:-1,VIP CAN: DEJAVIEW
+http://tunestream.me:8080/thomas/thomas/33736
+#EXTINF:-1,VIP CAN: DISCOVERY CANADA
+http://tunestream.me:8080/thomas/thomas/22752
+#EXTINF:-1,VIP CAN: Discovery Channel
+http://tunestream.me:8080/thomas/thomas/15317
+#EXTINF:-1,VIP CAN: Discovery Science HD
+http://tunestream.me:8080/thomas/thomas/33737
+#EXTINF:-1,VIP CAN: Discovery Velocity HD
+http://tunestream.me:8080/thomas/thomas/33738
+#EXTINF:-1,VIP CAN: Disney
+http://tunestream.me:8080/thomas/thomas/15316
+#EXTINF:-1,VIP CAN: DISNEY FR
+http://tunestream.me:8080/thomas/thomas/22751
+#EXTINF:-1,VIP CAN: DISNEY JR
+http://tunestream.me:8080/thomas/thomas/22750
+#EXTINF:-1,VIP CAN: DIY
+http://tunestream.me:8080/thomas/thomas/22749
+#EXTINF:-1,VIP CAN: DIY NETWORK FHD
+http://tunestream.me:8080/thomas/thomas/33739
+#EXTINF:-1,VIP CAN: DOCUMENTARY Channel
+http://tunestream.me:8080/thomas/thomas/33740
+#EXTINF:-1,VIP CAN: DTOUR
+http://tunestream.me:8080/thomas/thomas/33741
+#EXTINF:-1,VIP CAN: E! CANADA
+http://tunestream.me:8080/thomas/thomas/22748
+#EXTINF:-1,VIP CAN: EVASION
+http://tunestream.me:8080/thomas/thomas/33742
+#EXTINF:-1,VIP CAN: EVASION (FR)
+http://tunestream.me:8080/thomas/thomas/33743
+#EXTINF:-1,VIP CAN: FAMILY
+http://tunestream.me:8080/thomas/thomas/22745
+#EXTINF:-1,VIP CAN: FAMILY CHRGD
+http://tunestream.me:8080/thomas/thomas/33744
+#EXTINF:-1,VIP CAN: FAMILY JR
+http://tunestream.me:8080/thomas/thomas/33745
+#EXTINF:-1,VIP CAN: Fight Network HD
+http://tunestream.me:8080/thomas/thomas/33746
+#EXTINF:-1,VIP CAN: FOOD NETWORK
+http://tunestream.me:8080/thomas/thomas/22744
+#EXTINF:-1,VIP CAN: Fox 25
+http://tunestream.me:8080/thomas/thomas/33747
+#EXTINF:-1,VIP CAN: FOX EAST
+http://tunestream.me:8080/thomas/thomas/22743
+#EXTINF:-1,VIP CAN: FOX NEWS
+http://tunestream.me:8080/thomas/thomas/22742
+#EXTINF:-1,VIP CAN: FOX SPORTS Racing
+http://tunestream.me:8080/thomas/thomas/33748
+#EXTINF:-1,VIP CAN: FOX WEST
+http://tunestream.me:8080/thomas/thomas/22741
+#EXTINF:-1,VIP CAN: FOX-W
+http://tunestream.me:8080/thomas/thomas/15313
+#EXTINF:-1,VIP CAN: FX
+http://tunestream.me:8080/thomas/thomas/22746
+#EXTINF:-1,VIP CAN: FXX
+http://tunestream.me:8080/thomas/thomas/22747
+#EXTINF:-1,VIP CAN: FYI
+http://tunestream.me:8080/thomas/thomas/22740
+#EXTINF:-1,VIP CAN: Game
+http://tunestream.me:8080/thomas/thomas/33752
+#EXTINF:-1,VIP CAN: Game Show HD
+http://tunestream.me:8080/thomas/thomas/33749
+#EXTINF:-1,VIP CAN: GAME SHOW NETWORK HD
+http://tunestream.me:8080/thomas/thomas/33750
+#EXTINF:-1,VIP CAN: Game TV
+http://tunestream.me:8080/thomas/thomas/33751
+#EXTINF:-1,VIP CAN: GINX ESPORTSTV
+http://tunestream.me:8080/thomas/thomas/33753
+#EXTINF:-1,VIP CAN: GLOBAL CALGARY
+http://tunestream.me:8080/thomas/thomas/22739
+#EXTINF:-1,VIP CAN: GLOBAL EDMONTON
+http://tunestream.me:8080/thomas/thomas/22738
+#EXTINF:-1,VIP CAN: GLOBAL TORONTO
+http://tunestream.me:8080/thomas/thomas/22737
+#EXTINF:-1,VIP CAN: GLOBAL VANCOUVER
+http://tunestream.me:8080/thomas/thomas/22736
+#EXTINF:-1,VIP CAN: GLOBAL WINNIPEG
+http://tunestream.me:8080/thomas/thomas/26396
+#EXTINF:-1,VIP CAN: GOLF HD
+http://tunestream.me:8080/thomas/thomas/22735
+#EXTINF:-1,VIP CAN: GSN
+http://tunestream.me:8080/thomas/thomas/33754
+#EXTINF:-1,VIP CAN: GSN HD
+http://tunestream.me:8080/thomas/thomas/15320
+#EXTINF:-1,VIP CAN: GUSTO
+http://tunestream.me:8080/thomas/thomas/33755
+#EXTINF:-1,VIP CAN: H2
+http://tunestream.me:8080/thomas/thomas/22734
+#EXTINF:-1,VIP CAN: HBO1
+http://tunestream.me:8080/thomas/thomas/15310
+#EXTINF:-1,VIP CAN: HBO2
+http://tunestream.me:8080/thomas/thomas/15309
+#EXTINF:-1,VIP CAN: Headline News
+http://tunestream.me:8080/thomas/thomas/33756
+#EXTINF:-1,VIP CAN: HGTV
+http://tunestream.me:8080/thomas/thomas/15308
+#EXTINF:-1,VIP CAN: HISTORIA
+http://tunestream.me:8080/thomas/thomas/22733
+#EXTINF:-1,VIP CAN: HISTORY
+http://tunestream.me:8080/thomas/thomas/22732
+#EXTINF:-1,CAN: History HD
+http://tunestream.me:8080/thomas/thomas/2906
+#EXTINF:-1,VIP CAN: History 2
+http://tunestream.me:8080/thomas/thomas/33757
+#EXTINF:-1,VIP CAN: HLN
+http://tunestream.me:8080/thomas/thomas/15307
+#EXTINF:-1,VIP CAN: ICI ARTV (FR)
+http://tunestream.me:8080/thomas/thomas/33758
+#EXTINF:-1,VIP CAN: ICI MONTREAL
+http://tunestream.me:8080/thomas/thomas/22731
+#EXTINF:-1,VIP CAN: ICI TELEVISION
+http://tunestream.me:8080/thomas/thomas/22730
+#EXTINF:-1,VIP CAN: ICI VANCOUVER
+http://tunestream.me:8080/thomas/thomas/22729
+#EXTINF:-1,VIP CAN: ID
+http://tunestream.me:8080/thomas/thomas/22728
+#EXTINF:-1,VIP CAN: IFC
+http://tunestream.me:8080/thomas/thomas/22727
+#EXTINF:-1,VIP CAN: KNOWLEDGE KIDS
+http://tunestream.me:8080/thomas/thomas/33759
+#EXTINF:-1,VIP CAN: Knowledge Network
+http://tunestream.me:8080/thomas/thomas/33760
+#EXTINF:-1,VIP CAN: La chaÃ®ne Disney (FR)
+http://tunestream.me:8080/thomas/thomas/33761
+#EXTINF:-1,VIP CAN: LCN
+http://tunestream.me:8080/thomas/thomas/22689
+#EXTINF:-1,VIP CAN: LCN
+http://tunestream.me:8080/thomas/thomas/22726
+#EXTINF:-1,VIP CAN: LIFETIME
+http://tunestream.me:8080/thomas/thomas/22725
+#EXTINF:-1,VIP CAN: LIFETIME MOVIE NETWORK HD
+http://tunestream.me:8080/thomas/thomas/33762
+#EXTINF:-1,VIP CAN: LOVE NATURE HD
+http://tunestream.me:8080/thomas/thomas/15323
+#EXTINF:-1,VIP CAN: Makeful
+http://tunestream.me:8080/thomas/thomas/33763
+#EXTINF:-1,VIP CAN: MAVTV
+http://tunestream.me:8080/thomas/thomas/33764
+#EXTINF:-1,VIP CAN: MAX (FR)
+http://tunestream.me:8080/thomas/thomas/33765
+#EXTINF:-1,VIP CAN: MEDIASET ITALIA
+http://tunestream.me:8080/thomas/thomas/33766
+#EXTINF:-1,VIP CAN: METEO
+http://tunestream.me:8080/thomas/thomas/22724
+#EXTINF:-1,VIP CAN: METEO (FR)
+http://tunestream.me:8080/thomas/thomas/33767
+#EXTINF:-1,VIP CAN: Metro Media
+http://tunestream.me:8080/thomas/thomas/33768
+#EXTINF:-1,VIP CAN: Metro Media (FR)
+http://tunestream.me:8080/thomas/thomas/33769
+#EXTINF:-1,VIP CAN: MIRACLE
+http://tunestream.me:8080/thomas/thomas/33770
+#EXTINF:-1,VIP CAN: MLB Network
+http://tunestream.me:8080/thomas/thomas/33771
+#EXTINF:-1,VIP CAN: MOI CIE
+http://tunestream.me:8080/thomas/thomas/33772
+#EXTINF:-1,VIP CAN: MOI et CIE (FR)
+http://tunestream.me:8080/thomas/thomas/33773
+#EXTINF:-1,VIP CAN: MOVIETIME
+http://tunestream.me:8080/thomas/thomas/22723
+#EXTINF:-1,VIP CAN: MTV 2 HD
+http://tunestream.me:8080/thomas/thomas/33774
+#EXTINF:-1,VIP CAN: MTV BASE HD
+http://tunestream.me:8080/thomas/thomas/33775
+#EXTINF:-1,VIP CAN: MTV DANCE HD
+http://tunestream.me:8080/thomas/thomas/33776
+#EXTINF:-1,VIP CAN: MTV HITS HD
+http://tunestream.me:8080/thomas/thomas/33777
+#EXTINF:-1,VIP CAN: MTV LIVE HD
+http://tunestream.me:8080/thomas/thomas/33778
+#EXTINF:-1,VIP CAN: MTV ROCKS HD
+http://tunestream.me:8080/thomas/thomas/33779
+#EXTINF:-1,VIP CAN: MUCH
+http://tunestream.me:8080/thomas/thomas/15325
+#EXTINF:-1,VIP CAN: MUSIC PLUS (FR)
+http://tunestream.me:8080/thomas/thomas/33780
+#EXTINF:-1,VIP CAN: MUSIQUE PLUS
+http://tunestream.me:8080/thomas/thomas/22722
+#EXTINF:-1,VIP CAN: NAT GEO
+http://tunestream.me:8080/thomas/thomas/22721
+#EXTINF:-1,VIP CAN: NBC EAST
+http://tunestream.me:8080/thomas/thomas/22720
+#EXTINF:-1,VIP CAN: NBC WEST
+http://tunestream.me:8080/thomas/thomas/22719
+#EXTINF:-1,VIP CAN: NICK
+http://tunestream.me:8080/thomas/thomas/22718
+#EXTINF:-1,VIP CAN: NICKTOONS HD
+http://tunestream.me:8080/thomas/thomas/33781
+#EXTINF:-1,VIP CAN: NTV
+http://tunestream.me:8080/thomas/thomas/22717
+#EXTINF:-1,VIP CAN: OLN
+http://tunestream.me:8080/thomas/thomas/22716
+#EXTINF:-1,VIP CAN: OMNI 1 HD
+http://tunestream.me:8080/thomas/thomas/15312
+#EXTINF:-1,VIP CAN: OMNI 2
+http://tunestream.me:8080/thomas/thomas/15311
+#EXTINF:-1,VIP CAN: ONE
+http://tunestream.me:8080/thomas/thomas/33782
+#EXTINF:-1,VIP CAN: One Soccer 01 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/33805
+#EXTINF:-1,VIP CAN: One Soccer 02 HD [Live During Events Only]
+http://tunestream.me:8080/thomas/thomas/33806
+#EXTINF:-1,VIP CAN: One Soccer HD
+http://tunestream.me:8080/thomas/thomas/33804
+#EXTINF:-1,VIP CAN: OWN
+http://tunestream.me:8080/thomas/thomas/15305
+#EXTINF:-1,VIP CAN: PARAMOUNT NETWORK HD
+http://tunestream.me:8080/thomas/thomas/33783
+#EXTINF:-1,VIP CAN: PBS-W
+http://tunestream.me:8080/thomas/thomas/15304
+#EXTINF:-1,VIP CAN: Peach Tree
+http://tunestream.me:8080/thomas/thomas/22679
+#EXTINF:-1,VIP CAN: PRISE
+http://tunestream.me:8080/thomas/thomas/22715
+#EXTINF:-1,VIP CAN: PRISE 2
+http://tunestream.me:8080/thomas/thomas/33784
+#EXTINF:-1,VIP CAN: RDI
+http://tunestream.me:8080/thomas/thomas/33785
+#EXTINF:-1,VIP CAN: RDS
+http://tunestream.me:8080/thomas/thomas/15303
+#EXTINF:-1,VIP CAN: RDS 2
+http://tunestream.me:8080/thomas/thomas/22714
+#EXTINF:-1,VIP CAN: RDS INFO
+http://tunestream.me:8080/thomas/thomas/22713
+#EXTINF:-1,VIP CAN: Rogers TV (FR)
+http://tunestream.me:8080/thomas/thomas/33786
+#EXTINF:-1,VIP CAN: Series Plus
+http://tunestream.me:8080/thomas/thomas/33787
+#EXTINF:-1,VIP CAN: SHOPPING
+http://tunestream.me:8080/thomas/thomas/22712
+#EXTINF:-1,VIP CAN: SHOWCASE EAST
+http://tunestream.me:8080/thomas/thomas/22711
+#EXTINF:-1,VIP CAN: ShowCase HD
+http://tunestream.me:8080/thomas/thomas/15306
+#EXTINF:-1,VIP CAN: Showtime East
+http://tunestream.me:8080/thomas/thomas/15302
+#EXTINF:-1,VIP CAN: SILVER SCREEN CLASSICS
+http://tunestream.me:8080/thomas/thomas/22710
+#EXTINF:-1,VIP CAN: SLICE
+http://tunestream.me:8080/thomas/thomas/22709
+#EXTINF:-1,VIP CAN: Slice HD
+http://tunestream.me:8080/thomas/thomas/33788
+#EXTINF:-1,VIP CAN: SMITHSONIAN
+http://tunestream.me:8080/thomas/thomas/22708
+#EXTINF:-1,VIP CAN: SMITHSONIAN Channel HD
+http://tunestream.me:8080/thomas/thomas/33789
+#EXTINF:-1,VIP CAN: Spike / Paramount
+http://tunestream.me:8080/thomas/thomas/15301
+#EXTINF:-1,VIP CAN: SPORTSNET 360
+http://tunestream.me:8080/thomas/thomas/7703
+#EXTINF:-1,VIP CAN: SPORTSNET EAST
+http://tunestream.me:8080/thomas/thomas/7704
+#EXTINF:-1,VIP CAN: SPORTSNET ONE
+http://tunestream.me:8080/thomas/thomas/7705
+#EXTINF:-1,VIP CAN: SPORTSNET ONTARIO
+http://tunestream.me:8080/thomas/thomas/7706
+#EXTINF:-1,VIP CAN: SPORTSNET PACIFIC
+http://tunestream.me:8080/thomas/thomas/7707
+#EXTINF:-1,VIP CAN: SPORTSNET PPV
+http://tunestream.me:8080/thomas/thomas/22707
+#EXTINF:-1,VIP CAN: SPORTSNET WEST
+http://tunestream.me:8080/thomas/thomas/7708
+#EXTINF:-1,VIP CAN: SPORTSNET WORLD
+http://tunestream.me:8080/thomas/thomas/7709
+#EXTINF:-1,VIP CAN: Starz 1
+http://tunestream.me:8080/thomas/thomas/33790
+#EXTINF:-1,VIP CAN: Starz 2
+http://tunestream.me:8080/thomas/thomas/33791
+#EXTINF:-1,VIP CAN: Stingray Music
+http://tunestream.me:8080/thomas/thomas/26395
+#EXTINF:-1,VIP CAN: Super Channel H&H
+http://tunestream.me:8080/thomas/thomas/22706
+#EXTINF:-1,VIP CAN: Super Ecran 1
+http://tunestream.me:8080/thomas/thomas/15300
+#EXTINF:-1,VIP CAN: Super Ecran 2
+http://tunestream.me:8080/thomas/thomas/15299
+#EXTINF:-1,VIP CAN: Super Ecran 3
+http://tunestream.me:8080/thomas/thomas/22705
+#EXTINF:-1,VIP CAN: Super Ecran 4
+http://tunestream.me:8080/thomas/thomas/22704
+#EXTINF:-1,VIP CAN: SUPER SPORTS
+http://tunestream.me:8080/thomas/thomas/33792
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 267
+http://tunestream.me:8080/thomas/thomas/33673
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 433
+http://tunestream.me:8080/thomas/thomas/33674
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 434
+http://tunestream.me:8080/thomas/thomas/33675
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 435
+http://tunestream.me:8080/thomas/thomas/33676
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 436
+http://tunestream.me:8080/thomas/thomas/33677
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 437
+http://tunestream.me:8080/thomas/thomas/33678
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 438
+http://tunestream.me:8080/thomas/thomas/33679
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 439
+http://tunestream.me:8080/thomas/thomas/33680
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 441
+http://tunestream.me:8080/thomas/thomas/33681
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 443
+http://tunestream.me:8080/thomas/thomas/33682
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 444
+http://tunestream.me:8080/thomas/thomas/33683
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 450
+http://tunestream.me:8080/thomas/thomas/33684
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 461
+http://tunestream.me:8080/thomas/thomas/33685
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 462
+http://tunestream.me:8080/thomas/thomas/33686
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 464
+http://tunestream.me:8080/thomas/thomas/33687
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 465
+http://tunestream.me:8080/thomas/thomas/33688
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 472
+http://tunestream.me:8080/thomas/thomas/33689
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 476
+http://tunestream.me:8080/thomas/thomas/33690
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 479
+http://tunestream.me:8080/thomas/thomas/33691
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 480
+http://tunestream.me:8080/thomas/thomas/33692
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 482
+http://tunestream.me:8080/thomas/thomas/33693
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 483
+http://tunestream.me:8080/thomas/thomas/33694
+#EXTINF:-1,VIP CAN: SUPER SPORTS CH 484
+http://tunestream.me:8080/thomas/thomas/33695
+#EXTINF:-1,VIP CAN: SYFY HD
+http://tunestream.me:8080/thomas/thomas/33793
+#EXTINF:-1,VIP CAN: TBS HD
+http://tunestream.me:8080/thomas/thomas/15322
+#EXTINF:-1,VIP CAN: TCM
+http://tunestream.me:8080/thomas/thomas/33794
+#EXTINF:-1,VIP CAN: TCTV2
+http://tunestream.me:8080/thomas/thomas/33795
+#EXTINF:-1,VIP CAN: TV5 QUEBEC
+http://tunestream.me:8080/thomas/thomas/22703
+#EXTINF:-1,VIP CAN: TELE TOON EAST
+http://tunestream.me:8080/thomas/thomas/22702
+#EXTINF:-1,VIP CAN: TELE TOON FRENCH
+http://tunestream.me:8080/thomas/thomas/22701
+#EXTINF:-1,VIP CAN: TELEMAGINO
+http://tunestream.me:8080/thomas/thomas/22700
+#EXTINF:-1,VIP CAN: TFO
+http://tunestream.me:8080/thomas/thomas/22699
+#EXTINF:-1,VIP CAN: The Movie Network 1
+http://tunestream.me:8080/thomas/thomas/15298
+#EXTINF:-1,VIP CAN: The Movie Network 2
+http://tunestream.me:8080/thomas/thomas/16938
+#EXTINF:-1,VIP CAN: The Movie Network 3
+http://tunestream.me:8080/thomas/thomas/16939
+#EXTINF:-1,VIP CAN: The Movie Network 4
+http://tunestream.me:8080/thomas/thomas/16940
+#EXTINF:-1,VIP CAN: THE WEATHER NETWORK
+http://tunestream.me:8080/thomas/thomas/22698
+#EXTINF:-1,VIP CAN: TLC CANADA
+http://tunestream.me:8080/thomas/thomas/22697
+#EXTINF:-1,VIP CAN: Travel ESCAPE
+http://tunestream.me:8080/thomas/thomas/33796
+#EXTINF:-1,VIP CAN: Treehouse Tv
+http://tunestream.me:8080/thomas/thomas/15296
+#EXTINF:-1,VIP CAN: TSN 1 HD
+http://tunestream.me:8080/thomas/thomas/22696
+#EXTINF:-1,VIP CAN: TSN 2 HD
+http://tunestream.me:8080/thomas/thomas/22695
+#EXTINF:-1,VIP CAN: TSN 3 HD
+http://tunestream.me:8080/thomas/thomas/22694
+#EXTINF:-1,VIP CAN: TSN 4 HD
+http://tunestream.me:8080/thomas/thomas/22693
+#EXTINF:-1,VIP CAN: TSN 5 HD
+http://tunestream.me:8080/thomas/thomas/22692
+#EXTINF:-1,CAN: TSN Sport 1
+http://tunestream.me:8080/thomas/thomas/3046
+#EXTINF:-1,CAN: TSN Sport 2
+http://tunestream.me:8080/thomas/thomas/3047
+#EXTINF:-1,CAN: TSN Sport 3
+http://tunestream.me:8080/thomas/thomas/3048
+#EXTINF:-1,CAN: TSN Sport 4
+http://tunestream.me:8080/thomas/thomas/3049
+#EXTINF:-1,CAN: TSN Sport 5
+http://tunestream.me:8080/thomas/thomas/3050
+#EXTINF:-1,VIP CAN: TV Ontario
+http://tunestream.me:8080/thomas/thomas/33797
+#EXTINF:-1,VIP CAN: TV Rogers
+http://tunestream.me:8080/thomas/thomas/33798
+#EXTINF:-1,VIP CAN: TV5 (FR)
+http://tunestream.me:8080/thomas/thomas/33799
+#EXTINF:-1,VIP CAN: TVA GATINEAU
+http://tunestream.me:8080/thomas/thomas/22691
+#EXTINF:-1,VIP CAN: TVA MONTREAL
+http://tunestream.me:8080/thomas/thomas/22690
+#EXTINF:-1,VIP CAN: TVA Sports
+http://tunestream.me:8080/thomas/thomas/15294
+#EXTINF:-1,VIP CAN: TVA Sports 2
+http://tunestream.me:8080/thomas/thomas/33800
+#EXTINF:-1,VIP CAN: TVO
+http://tunestream.me:8080/thomas/thomas/22688
+#EXTINF:-1,VIP CAN: UNIS TV
+http://tunestream.me:8080/thomas/thomas/22687
+#EXTINF:-1,VIP CAN: V MONTREAL
+http://tunestream.me:8080/thomas/thomas/22686
+#EXTINF:-1,VIP CAN: V QUEBEC
+http://tunestream.me:8080/thomas/thomas/22685
+#EXTINF:-1,VIP CAN: VIE
+http://tunestream.me:8080/thomas/thomas/22684
+#EXTINF:-1,VIP CAN: VISION
+http://tunestream.me:8080/thomas/thomas/22683
+#EXTINF:-1,VIP CAN: VRAK TV
+http://tunestream.me:8080/thomas/thomas/22682
+#EXTINF:-1,VIP CAN: W Network
+http://tunestream.me:8080/thomas/thomas/15295
+#EXTINF:-1,VIP CAN: WGN
+http://tunestream.me:8080/thomas/thomas/22681
+#EXTINF:-1,VIP CAN: Wild TV
+http://tunestream.me:8080/thomas/thomas/22680
+#EXTINF:-1,VIP CAN: WSBK HD
+http://tunestream.me:8080/thomas/thomas/15326
+#EXTINF:-1,VIP CAN: YES
+http://tunestream.me:8080/thomas/thomas/15293
+#EXTINF:-1,VIP CAN: YOOPA (FR)
+http://tunestream.me:8080/thomas/thomas/33801
+#EXTINF:-1,VIP CAN: YTV
+http://tunestream.me:8080/thomas/thomas/22678
+#EXTINF:-1,VIP CAN: YTV West
+http://tunestream.me:8080/thomas/thomas/22677
+#EXTINF:-1,VIP CAN: YTV-E
+http://tunestream.me:8080/thomas/thomas/15292
+#EXTINF:-1,VIP CAN: Z TELE
+http://tunestream.me:8080/thomas/thomas/22676
+#EXTINF:-1,VIP CAN: ZESTE
+http://tunestream.me:8080/thomas/thomas/33802
